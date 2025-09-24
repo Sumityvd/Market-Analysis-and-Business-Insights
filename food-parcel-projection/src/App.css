@@ -1,0 +1,164 @@
+.fpp_hp_header {
+  padding: 0 15px;
+  background-color: #d30c2b;
+}
+
+.fpp_hp_header_img {
+  height: 100px;
+  width: auto;
+}
+
+/* .fpp_hp_form_title {
+  width: fit-content;
+} */
+.fpp_hp_form_p {
+  color: gray;
+  size: 20px;
+}
+
+.fpp_hp_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #d30c2b;
+  gap: 15px;
+  padding: 25px;
+}
+
+.fpp_hp_form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+  flex-wrap: wrap;
+  padding: 25px;
+}
+
+.fpp_hp_form_input {
+  width: 250px;
+  display: inline;
+}
+
+.fpp_hp_rec {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 25px;
+}
+
+.fpp_hp_rec_sugg {
+  width: 40%;
+}
+
+.fpp_hp_rec_sugg-h {
+  color: #d30c2b;
+}
+
+.fpp_hp_rec_sugg-span {
+  color: #53a49e;
+  font-weight: 25px;
+}
+
+.fpp_hp_rec_sugg_err {
+  text-align: center;
+  color: #d30c2b;
+}
+/* ADD THESE STYLES TO THE END OF YOUR EXISTING APP.CSS FILE */
+
+/* Basic animations that the new component needs */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-out;
+}
+
+.animate-pulse {
+  animation: pulse 2s infinite;
+}
+
+/* Simple gradient backgrounds */
+.bg-gradient-to-br {
+  background: linear-gradient(135deg, #f9fafb, #f3f4f6);
+}
+
+.bg-gradient-to-r {
+  background: linear-gradient(90deg, #fef2f2, #fff7ed);
+}
+
+/* Grid layout utilities */
+.grid {
+  display: grid;
+}
+
+.grid-cols-1 {
+  grid-template-columns: 1fr;
+}
+
+.gap-4 {
+  gap: 1rem;
+}
+
+/* Basic spacing utilities that might be missing */
+.mb-2 { margin-bottom: 0.5rem; }
+.mb-4 { margin-bottom: 1rem; }
+.mb-6 { margin-bottom: 1.5rem; }
+.mb-8 { margin-bottom: 2rem; }
+.mt-2 { margin-top: 0.5rem; }
+.mt-4 { margin-top: 1rem; }
+.mt-6 { margin-top: 1.5rem; }
+.mt-8 { margin-top: 2rem; }
+.mr-2 { margin-right: 0.5rem; }
+.p-4 { padding: 1rem; }
+.p-6 { padding: 1.5rem; }
+.pt-4 { padding-top: 1rem; }
+.rounded-lg { border-radius: 0.5rem; }
+.rounded-xl { border-radius: 0.75rem; }
+.shadow-sm { box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05); }
+.border { border-width: 1px; }
+
+/* Color utilities matching your theme */
+.text-red-700 { color: #d30c2b; }
+.text-gray-600 { color: #4b5563; }
+.text-gray-800 { color: #1f2937; }
+.text-green-700 { color: #53a49e; }
+.text-green-900 { color: #134e4a; }
+.bg-white { background-color: white; }
+.bg-red-50 { background-color: #fef2f2; }
+.bg-green-50 { background-color: #f0fdf4; }
+.bg-blue-50 { background-color: #eff6ff; }
+.border-red-200 { border-color: #fecaca; }
+.border-green-200 { border-color: #bbf7d0; }
+
+/* Enhanced Material-UI styling to match your theme */
+.MuiOutlinedInput-root {
+  border-radius: 8px !important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #d30c2b !important;
+}
+
+.MuiInputLabel-root.Mui-focused {
+  color: #d30c2b !important;
+}
