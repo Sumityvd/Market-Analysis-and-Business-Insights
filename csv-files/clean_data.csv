@@ -1,0 +1,1001 @@
+,Restaurant_id,Name,Location,Price_for_two,Cuisines,Rating,Delivery_review_number,Price_for_one
+0,0,Cafe Delhi Heights,"Forum Rex Walk, Bangalore",1500,"North Indian, Oriental, Italian, Desserts, Beverages, Coffee, Sushi",4.2,44.0,750.0
+1,1,Ouro,"Forum Rex Walk, Bangalore",3000,"European, Mexican, Desserts",0.0,0.0,1500.0
+2,2,The Bier Library,"Koramangala 6th Block, Bangalore",1800,"North Indian, Pizza, European, American, Bar Food, Oriental, Desserts, BBQ",4.5,695.0,900.0
+3,3,Bombay Borough,"Richmond Road, Bangalore",2000,"North Indian, Biryani, South Indian, Desserts, Tea, Beverages",4.5,55.0,1000.0
+4,4,Pangeo,"Forum Rex Walk, Bangalore",3500,"Sushi, Continental, Mediterranean, Pizza, Pasta, North Indian, Desserts, Asian",4.5,0.0,1750.0
+5,5,Over Coffee Cafe & Wine Bar,"Lavelle Road, Bangalore",1200,"European, Italian, Continental, Cafe, Coffee",4.5,15.0,600.0
+6,6,Farzi Cafe,"UB City, Bangalore",1900,"North Indian, Desserts",4.2,144.0,950.0
+7,7,Mayuri,"JP Nagar, Bangalore",1200,"Andhra, Biryani, North Indian, Chinese, Desserts",4.5,3146.0,600.0
+8,8,ShakesBierre,"Eva Mall, Brigade Road, Bangalore",1800,"Finger Food, North Indian, Continental, Italian, Desserts, Beverages",4.4,117.0,900.0
+9,9,No Limmits Lounge And Club,"Brigade Road, Bangalore",2500,"Chinese, Continental, North Indian, Fast Food, Pizza, Beverages",3.8,0.0,1250.0
+10,10,Sarjapur SOCIAL,"Sarjapur Road, Bangalore",1000,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Desserts, Beverages",4.4,3376.0,500.0
+11,11,KOKO,"Old Airport Road, Bangalore",3500,"Asian, Sushi, Desserts, Chinese, Beverages",0.0,4.0,1750.0
+12,12,Feast - Sheraton Grand Bangalore Hotel at Brigade Gateway,"Sheraton Grand Bangalore Hotel at Brigade Gateway, Bangalore",3500,"North Indian, Continental, Fast Food, Asian, Beverages",4.2,112.0,1750.0
+13,13,Lono,"Indiranagar, Bangalore",1700,"Chinese, Italian, Continental, North Indian, Seafood, Pizza, Pasta, Fast Food",4.2,112.0,850.0
+14,14,Toit,"Indiranagar, Bangalore",2500,"Italian, American, European, Continental, Desserts",4.9,1051.0,1250.0
+15,15,Foo Brigade Road,"Forum Rex Walk, Bangalore",2000,"Chinese, Sushi, Asian, Japanese, Desserts",4.6,304.0,1000.0
+16,16,RCB Bar & Cafe,"1 Sobha, Bangalore",2000,"Continental, Asian, North Indian, Pizza, Fast Food, Desserts, Beverages",4.4,201.0,1000.0
+17,17,2 MOONS,"1 MG Road Mall, MG Road, Bangalore",2100,"Modern Indian, Continental, Asian",4.3,2.0,1050.0
+18,18,Roxie,"Sarjapur Road, Bangalore",2600,"Continental, Asian, North Indian, European, American, Italian, Pizza, Beverages",4.6,73.0,1300.0
+19,19,Maffei Kitchen,"Koramangala 5th Block, Bangalore",1700,"Lebanese, Greek, Moroccan, Desserts, Beverages",4.7,357.0,850.0
+20,20,Amintiri,"Church Street, Bangalore",1100,"Desserts, Bakery, Fast Food, Beverages, Pasta, Italian, Cafe, Finger Food",4.4,0.0,550.0
+21,21,Citrus - The Leela Palace,"The Leela Palace, Old Airport Road, Bangalore",4700,"North Indian, Continental, Asian, Desserts",4.0,142.0,2350.0
+22,22,Long Boat Brewing Co.,"Marathahalli, Bangalore",2600,"Asian, Chinese, North Indian, Pizza, South Indian, Continental",4.2,647.0,1300.0
+23,23,Muro,"Church Street, Bangalore",3000,"Thai, Cantonese",4.5,0.0,1500.0
+24,24,Ministry of Food - Hilton Bangalore Embassy GolfLinks,"Hilton Bangalore Embassy GolfLinks, Domlur, Bangalore",3500,"Asian, Continental, Italian, North Indian, Mughlai, Desserts, Beverages",3.9,212.0,1750.0
+25,25,Jugni Kitchen & Bar,"Koramangala 5th Block, Bangalore",1600,"North Indian, Modern Indian, Bar Food",4.5,0.0,800.0
+26,26,Oia,"Hennur, Bangalore",2500,"Continental, Asian, Seafood, Salad, Pizza, North Indian, Desserts",4.1,0.0,1250.0
+27,27,Just BLR,"Brigade Road, Bangalore",2500,"North Indian, Chinese, Biryani, Beverages",4.4,0.0,1250.0
+28,28,Tim Hortons,"Koramangala 8th Block, Bangalore",1000,"Coffee, Cafe, Continental, Sandwich, Fast Food, Salad, Beverages, Desserts",4.1,537.0,500.0
+29,29,Jook Taproom,"Indiranagar, Bangalore",1600,"North Indian, South Indian, Chinese, Pizza, Fast Food, Biryani, Asian, Bar Food",4.4,49.0,800.0
+30,30,Jamavar - The Leela Palace,"The Leela Palace, Old Airport Road, Bangalore",5000,"North Indian, South Indian",4.3,0.0,2500.0
+31,31,XOOX Brewmill,"Koramangala 5th Block, Bangalore",2500,"North Indian, Continental, American, Italian, Asian, Modern Indian, Pizza, Desserts",4.3,175.0,1250.0
+32,32,Uru Brewpark,"JP Nagar, Bangalore",2200,"Continental, North Indian, Italian, Chinese, Asian, Pizza, Lebanese, Beverages",4.3,4083.0,1100.0
+33,33,Feast - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre,"Sheraton Grand Bengaluru, Whitefield, Bangalore",3500,"Continental, South Indian, North Indian, Desserts, Beverages",4.3,103.0,1750.0
+34,34,K-OS TheGameBar,"Koramangala 7th Block, Bangalore",1700,"Continental, Italian, North Indian, Finger Food, Asian, Fast Food",4.4,21.0,850.0
+35,35,Ironhill Bengaluru,"Marathahalli, Bangalore",2000,"North Indian, Continental, Asian, Pizza, Fast Food, Biryani, Beverages, Desserts",4.5,152.0,1000.0
+36,36,Terrace By House Of Commons,"JP Nagar, Bangalore",2000,"Modern Indian, Continental, Asian, Chinese, North Indian, Seafood, Bar Food, Beverages",4.6,0.0,1000.0
+37,37,Macaw By Stories,"Bommanahalli, Bangalore",1000,"South Indian, North Indian, Chinese, Pasta, Pizza, Fast Food, Salad, Desserts",4.2,18.0,500.0
+38,38,The Pizza Bakery,"Koramangala 5th Block, Bangalore",1500,"Pizza, Italian, Pasta, Salad, Continental, Desserts, Beverages",4.5,856.0,750.0
+39,39,North Star Cafe,"HSR, Bangalore",800,"Cafe, Bakery, Beverages, Desserts, Continental, Healthy Food",4.2,21.0,400.0
+40,40,Grazers Resto - Bar,"Jayanagar, Bangalore",1300,"North Indian, Salad, Continental, Burger, Pizza, Fast Food, Asian, Bar Food",4.0,3331.0,650.0
+41,41,Stories Brewery & Kitchen,"BTM, Bangalore",1800,"North Indian, Continental, Chinese, Finger Food, Beverages, Desserts",4.4,435.0,900.0
+42,42,Zen - The Leela Palace,"The Leela Palace, Old Airport Road, Bangalore",3500,"Thai, Japanese, Chinese, Rolls",4.1,0.0,1750.0
+43,43,Homiga,"Forum Rex Walk, Bangalore",1500,"Korean, Asian",4.1,0.0,750.0
+44,44,The Weekly Brewhouse & Kitchen,"Hosur Road, Bangalore",1500,"Continental, Bar Food, Chinese, North Indian, Pasta, Pizza, Biryani, Beverages",4.5,11.0,750.0
+45,45,Asia Alive - DoubleTree Suites By Hilton,"DoubleTree Suites By Hilton, Sarjapur, Bangalore",3500,"North Indian, South Indian, Chinese, Thai, Italian, Burger, Sandwich, Beverages",3.9,144.0,1750.0
+46,46,Chowman,"Indiranagar, Bangalore",1400,"Chinese, Thai, Asian, Seafood, Sichuan, Desserts, Beverages",4.5,8383.0,700.0
+47,47,The Hole In The Wall Cafe,"Koramangala 4th Block, Bangalore",700,"Cafe, Continental, Burger, Sandwich, Shake, Beverages, Desserts",4.4,7912.0,350.0
+48,48,Geometry Brewery & Kitchen,"Malleshwaram, Bangalore",1800,"Chinese, North Indian, Italian, Continental, Pizza, Desserts, Beverages",4.2,44.0,900.0
+49,49,Quattro - The Leela Bhartiya City Bengaluru,"The Leela - Bhartiya City, Bangalore",3500,"North Indian, Mediterranean, European",4.2,259.0,1750.0
+50,50,1131 Bar + Kitchen By House Of Commons,"Indiranagar, Bangalore",2200,"Finger Food, North Indian, Continental, Chinese, Italian, Asian, Desserts, Beverages",4.5,396.0,1100.0
+51,51,Lush - Renaissance Hotel,"Renaissance Hotel, Race Course Road, Bangalore",3500,"North Indian, Continental, Chinese, Fast Food",4.4,144.0,1750.0
+52,52,The Terrace at Gilly's Redefined,"Gilly's Redefined, Koramangala 4th Block, Bangalore",2000,"Continental, Finger Food, Chinese, North Indian, Italian, Beverages, Desserts",4.4,6.0,1000.0
+53,53,Biergarten,"Whitefield, Bangalore",2500,"Continental, European, BBQ, Chinese, Asian, Beverages",4.6,2442.0,1250.0
+54,54,Cafe Grey By Dongle & Co,"Indiranagar, Bangalore",1200,"Cafe, Coffee, Beverages, Continental, Pizza, Italian, Salad, Desserts",4.4,250.0,600.0
+55,55,F5,"Embassy Manyata Business Park,  Nagawara , Bangalore",3100,"North Indian, Continental, Pizza, Fast Food, Coffee, Tea, Desserts, Beverages",4.3,0.0,1550.0
+56,56,154 Breakfast Club,"JP Nagar, Bangalore",1100,"Burger, Cafe, Sandwich, Street Food, Fast Food, Pancake, Asian, Desserts",4.5,647.0,550.0
+57,57,Street 1522,"Sarjapur Road, Bangalore",2200,"North Indian, Asian, Seafood, Continental, Mughlai, Kebab, Street Food, Beverages",4.3,33.0,1100.0
+58,58,The Market - The Ritz-Carlton,"The Ritz-Carlton, Bangalore",3000,"North Indian, European, Asian",4.1,60.0,1500.0
+59,59,Daddy,"Indiranagar, Bangalore",1700,"Continental, North Indian, Asian, Italian, Chinese, European, Bar Food, Beverages",4.3,142.0,850.0
+60,60,SLAY Coffee Bar,"Miraya Rose, Bangalore",600,"Cafe, Coffee, Beverages, Fast Food",4.2,1140.0,300.0
+61,61,Phurr,"Jayanagar, Bangalore",2000,"North Indian, Continental",4.2,0.0,1000.0
+62,62,The Kind Roastery & Brew Room,"JP Nagar, Bangalore",500,"Cafe, Coffee, Desserts, Asian, Pizza, Tea, Beverages, Pasta",4.5,57.0,250.0
+63,63,The Square - Novotel,"Novotel Bengaluru, Marathahalli, Bangalore",3200,"Continental, North Indian, Japanese, Italian",4.3,0.0,1600.0
+64,64,Tastique,"Nagawara, Bangalore",1500,"North Indian, Chinese, Beverages",4.4,12.0,750.0
+65,65,Brik Oven,"Indiranagar, Bangalore",1200,"Pizza, Fast Food, Desserts, Beverages",4.4,2393.0,600.0
+66,66,Magique,"Koramangala 6th Block, Bangalore",1700,"Asian, Modern Indian, Continental, Italian, North Indian, Sushi, Desserts, Beverages",3.8,9.0,850.0
+67,67,Melange,"Radisson Blu, Marathahalli, Bangalore",3500,"North Indian, South Indian, Continental, Italian, Desserts",4.0,21.0,1750.0
+68,68,Nusa,"Varthur Main Road, Whitefield, Bangalore",1500,"Continental, Chinese",3.7,0.0,750.0
+69,69,Restaurant Chef Pillai,"Brigade Road, Bangalore",1000,Kerala,4.4,433.0,500.0
+70,70,Secret Story,"Indiranagar, Bangalore",1500,"Continental, Asian, North Indian, Fast Food, Desserts, Beverages",4.0,0.0,750.0
+71,71,Mykos Craft Kitchen & Bar,"Bannerghatta Road, Bangalore",1600,"Continental, Greek, Asian, Mediterranean, North Indian",4.3,0.0,800.0
+72,72,Tuk Tuk Thai - Pure Veg Asian Fine Dine,"Koramangala 5th Block, Bangalore",2000,"Thai, Asian, Chinese, Desserts, Beverages",4.8,140.0,1000.0
+73,73,The Verandah Koramangala,"Koramangala 3rd Block, Bangalore",1500,"South Indian, Asian, Salad, Healthy Food, Chinese, Desserts",3.3,0.0,750.0
+74,74,Truffles,"Koramangala 5th Block, Bangalore",1100,"Burger, Italian, Desserts, Continental, American, Fast Food, Beverages",4.6,17500.0,550.0
+75,75,46 Ounces,"RMZ Infinity, Old Madras Road, Bangalore",1200,"North Indian, Asian, Italian, Pizza, Desserts",4.4,97.0,600.0
+76,76,The Rameshwaram Cafe,"Indiranagar, Bangalore",200,"South Indian, Beverages",4.2,0.0,100.0
+77,77,BLR Brewing Co,"Whitefield, Bangalore",1200,"North Indian, Continental, Chinese, Italian, BBQ, Bar Food, Desserts",0.0,0.0,600.0
+78,78,Smoor,"Indiranagar, Bangalore",600,"Bakery, Desserts, Beverages",4.5,7990.0,300.0
+79,79,Sky Garden,"Whitefield, Bangalore",2000,"Continental, North Indian, Pizza, Asian, Pasta, Chinese, Desserts, Beverages",4.1,57.0,1000.0
+80,80,Miso Sexy,"Indiranagar, Bangalore",1800,"Japanese, Chinese, Sushi, Beverages",4.4,28.0,900.0
+81,81,One8 Commune,"Lavelle Road, Bangalore",3000,"North Indian, Chinese, Pasta, Sushi, Continental, Desserts, Beverages",3.9,0.0,1500.0
+82,82,Spice It - Ibis Hotel,"Hebbal, Bangalore",1800,"North Indian, Chinese, Italian, Continental, Pasta, Desserts, Beverages",3.7,0.0,900.0
+83,83,Deck Of Brews,"Kadubeesanahalli, Bangalore",1500,"Continental, North Indian, Italian, Asian, Desserts, Pizza, Pasta, South Indian",4.3,0.0,750.0
+84,84,The Creek - The Den Bengaluru,"The Den, Whitefield, Bangalore",3000,"North Indian, South Indian, Asian, Pizza, Desserts",4.2,0.0,1500.0
+85,85,Theo Cafe,"Hennur, Bangalore",1000,"Continental, Asian, Coffee, Japanese, Italian, Desserts, Beverages",4.3,30.0,500.0
+86,86,Aurum Brew Works,"Sarjapur Road, Bangalore",1500,"North Indian, Mughlai, Continental, Asian, Beverages, Desserts",4.3,1559.0,750.0
+87,87,The Coffee Brewery,"Koramangala 4th Block, Bangalore",800,"Cafe, Coffee, Sandwich, Fast Food, Desserts, Tea, Beverages",3.7,26.0,400.0
+88,88,The Caffeine Baar,"Jayanagar, Bangalore",950,"Cafe, Italian, Continental, Bakery, Desserts, Beverages",4.3,533.0,475.0
+89,89,Raahi,"St. Marks Road, Bangalore",2000,"North Indian, Pasta, Pizza, Desserts, Beverages",4.2,258.0,1000.0
+90,90,Float Brewery,"Kalyan Nagar, Bangalore",1500,"Bar Food, Continental, Italian, Asian, North Indian, Desserts, Pizza, Beverages",4.4,121.0,750.0
+91,91,Harley's Fine Baking,"JP Nagar, Bangalore",600,"Bakery, Sandwich",4.0,441.0,300.0
+92,92,Bramble,"Jayanagar, Bangalore",1800,"Continental, Asian, North Indian, Italian, Bar Food, Beverages",4.5,4.0,900.0
+93,93,Hard Rock Cafe,"St. Marks Road, Bangalore",2500,"American, Continental, Burger, Sandwich, Fast Food, Desserts, Beverages",4.6,304.0,1250.0
+94,94,Sashay-Taproom Kitchen,"Whitefield, Bangalore",2000,"Asian, Modern Indian, Continental, Sushi, North Indian, Chinese, Desserts, Beverages",4.8,0.0,1000.0
+95,95,The Black Pearl,"Kadubeesanahalli, Bangalore",2100,"North Indian, Chinese, Fast Food, Street Food, Mughlai, Desserts, Beverages",4.2,101.0,1050.0
+96,96,Red Rhino,"Whitefield, Bangalore",2000,"Continental, North Indian, Asian, Oriental, Mediterranean, Mangalorean, Beverages, Desserts",4.4,6681.0,1000.0
+97,97,Byg Brewski Brewing Company,"Sarjapur Road, Bangalore",2000,"Continental, North Indian, Asian, Fast Food, Pizza, Pasta, Burger, Desserts",4.6,25200.0,1000.0
+98,98,Nook,"Aloft Bengaluru Cessna Business Park, Kadubeesanahalli, Bangalore",1200,"North Indian, Continental, Asian, Fast Food, South Indian, Desserts, Waffle",4.0,235.0,600.0
+99,99,Taproom By Sherlock's,"JP Nagar, Bangalore",1800,"North Indian, Oriental, Continental, Biryani, Pizza, Pasta, Desserts, Beverages",4.3,106.0,900.0
+100,100,Zoey's,"Sarjapur Road, Bangalore",700,"Burger, Beverages, Continental, Pasta, Chinese, Sandwich, Cafe, Desserts",4.2,5507.0,350.0
+101,101,Moglu - The Edgy Veggie Restaurant,"St. Marks Road, Bangalore",1000,"American, Continental, Desserts, Beverages",0.0,0.0,500.0
+102,102,High Ultra Lounge,"Sheraton Grand Bangalore Hotel at Brigade Gateway, Bangalore",3600,"North Indian, Continental, Finger Food, Desserts",4.2,0.0,1800.0
+103,103,Caraway Kitchen - Conrad Bengaluru,"Conrad Bengaluru, Ulsoor, Bangalore",3900,"Asian, Continental, North Indian, Italian, Fast Food",4.1,9.0,1950.0
+104,104,Fox In The Field,"Forum Shantiniketan Mall, Whitefield, Bangalore",2000,"Modern Indian, Continental, North Indian, Pizza, American, Italian, Desserts, Beverages",4.2,289.0,1000.0
+105,105,TYD,"Hennur, Bangalore",1900,"Asian, European, Sushi, Continental, Italian, Mexican, Beverages, Desserts",4.4,58.0,950.0
+106,106,Kana By Coffee Mechanics,"HBR Layout, Bangalore",1000,"Cafe, Coffee, Pizza, Continental, Desserts, Beverages, Burger, Pasta",4.3,66.0,500.0
+107,107,Kari Theory - Namma Bar & Kitchen,"Radisson Bangalore City Centre, Ulsoor, Bangalore",3500,"Chinese, North Indian, Biryani, Asian, Fast Food, Beverages",4.1,1.0,1750.0
+108,108,The Coffee Brewery,"Kalyan Nagar, Bangalore",800,"Cafe, Coffee, Tea, Beverages, Sandwich, Fast Food, Desserts",3.3,313.0,400.0
+109,109,Lavonne,"Indiranagar, Bangalore",1300,"Cafe, Tea, Beverages, Bakery, Continental, Pasta, Salad, Fast Food",4.5,908.0,650.0
+110,110,Cuppa Redefined,"HSR, Bangalore",700,"Cafe, American, Burger, Healthy Food, Salad, Fast Food, Desserts, Beverages",4.3,432.0,350.0
+111,111,TBC- Sky Lounge,"HSR, Bangalore",1500,"Continental, Italian, Asian, North Indian, South Indian, Biryani, Desserts, Beverages",4.5,382.0,750.0
+112,112,Butterfly Brew Bite & Fly,"JP Nagar, Bangalore",1500,"North Indian, Continental, Pizza, Italian, Asian, Desserts, Beverages",4.2,0.0,750.0
+113,113,Backstreet Brewery,"Sarjapur Road, Bangalore",1800,"Italian, Bar Food, Pizza, North Indian, Asian, Desserts, Beverages",4.4,416.0,900.0
+114,114,Gold Rush Brews,"KR Puram, Bangalore",1900,"North Indian, Italian, Asian, Continental, American, South Indian, Beverages, Desserts",4.4,281.0,950.0
+115,115,Masala Mandi,"Sarjapur Road, Bangalore",1800,"North Indian, BBQ, Biryani, Desserts, Beverages, Mughlai",4.3,3428.0,900.0
+116,116,JW Kitchen - JW Marriott Bengaluru,"JW Marriott Bengaluru, Lavelle Road, Bangalore",5000,"North Indian, Continental, Mughlai, Beverages, Desserts",4.2,256.0,2500.0
+117,117,Neo Kitchen,"Embassy Manyata Business Park,  Nagawara , Bangalore",3100,"Asian, Continental, Italian, South Indian, North Indian, Biryani, Desserts, Beverages",4.2,0.0,1550.0
+118,118,The Watering Hole,"BTM, Bangalore",1400,"Continental, North Indian, European, Asian, Desserts, Beverages",0.0,0.0,700.0
+119,119,Orah Brew Garden,"Yelahanka, Bangalore",1300,"Asian, Continental, Desserts, European, Modern Indian",4.2,1.0,650.0
+120,120,Nuage,"Indiranagar, Bangalore",950,"Burger, Bakery, Continental",4.5,123.0,475.0
+121,121,Zodiac Bar & Kitchen,"Brookefield, Bangalore",1800,"Continental, North Indian, Pizza, Italian, Chinese, Fast Food, Biryani, Desserts",4.3,1.0,900.0
+122,122,Hoot,"Sarjapur Road, Bangalore",2000,"Continental, Italian, North Indian, Beverages",4.2,499.0,1000.0
+123,123,Buff Buffet Buff,"BluPetal Hotel, Koramangala, Bangalore",1800,"South Indian, Salad, Bar Food, North Indian, Desserts, Beverages",4.4,37.0,900.0
+124,124,Indian Biere House,"JP Nagar, Bangalore",2500,"Continental, Mediterranean, North Indian, Asian, Bar Food, Italian, Desserts, Beverages",4.4,1.0,1250.0
+125,125,Boho,"Brookefields Mall, Brookefield, Bangalore",2500,"Bar Food, North Indian, Continental, Asian, Desserts, Beverages",4.1,53.0,1250.0
+126,126,The Scene - Craft Kitchen & Bar,"JP Nagar, Bangalore",1500,"North Indian, Continental, Asian, Desserts, Beverages",4.2,0.0,750.0
+127,127,The French Treaty,"Yelahanka, Bangalore",1000,"Cafe, Coffee, French, Desserts, Beverages",3.5,0.0,500.0
+128,128,Bombay Curry House,"Embassy Manyata Business Park,  Nagawara , Bangalore",1300,"South Indian, North Indian, Chinese, Bar Food, Salad, Biryani, Desserts, Beverages",4.5,0.0,650.0
+129,129,Mitico Coffee Roasters,"Koramangala 5th Block, Bangalore",900,"Cafe, Continental, Italian, Burger, North Indian, Salad, Shake, Beverages",4.4,69.0,450.0
+130,130,Elysium By Stories,"Sarjapur Road, Bangalore",1600,"South Indian, North Indian, Fast Food, Oriental",4.2,0.0,800.0
+131,131,Flo,"Church Street, Bangalore",1900,"Asian, Thai, Continental, Finger Food, Sushi, Desserts, Beverages",4.2,28.0,950.0
+132,132,Nevermind - Bar & Social,"Indiranagar, Bangalore",1800,"Bar Food, North Indian, Chinese, Continental, Burger",4.1,120.0,900.0
+133,133,Oyster Bar & Kitchen,"HSR, Bangalore",1600,"Continental, Bar Food, Chinese, North Indian, Beverages, Desserts",4.5,503.0,800.0
+134,134,Umbaa Pub And Kitchen,"ITPL Main Road, Whitefield, Bangalore",1500,"Bar Food, North Indian, Mughlai, Continental, Beverages",4.5,0.0,750.0
+135,135,Jamming Goat 3.0,"JP Nagar, Bangalore",1500,"North Indian, Asian, Desserts",4.3,24.0,750.0
+136,136,24@43 - The Oterra,"The Oterra, Hosur Road, Bangalore",3700,"North Indian, Asian, Continental, Fast Food, Biryani, Desserts",4.1,0.0,1850.0
+137,137,Cafe Noir,"Indiranagar, Bangalore",2000,"Cafe, Continental, French, Italian, Pizza, Coffee, Desserts, Ice Cream",3.9,205.0,1000.0
+138,138,BANOFFEE,"HSR, Bangalore",1600,"Cafe, Continental, Asian, Mexican, Italian, European, Beverages, Desserts",4.1,5850.0,800.0
+139,139,Paper And Pie,"Indiranagar, Bangalore",1200,"Cafe, Italian, Continental, Desserts, Beverages, Shake",3.5,0.0,600.0
+140,140,Haldiram's Restaurant,"HSR, Bangalore",400,"Mithai, South Indian, North Indian, Sandwich, Street Food, Biryani, Beverages",4.1,2337.0,200.0
+141,141,Stories Bar & Kitchen,"JP Nagar, Bangalore",1800,"Bar Food, Chinese, North Indian, Italian, Pizza, Seafood, Desserts",4.3,649.0,900.0
+142,142,Backyard Burgers And Grill,"Indiranagar, Bangalore",400,"Burger, American, Wraps, Fast Food, Salad",4.1,1188.0,200.0
+143,143,Singapore Street,"Kammanahalli, Bangalore",1400,"Singaporean, Thai, Sushi, Asian, Korean, Indonesian, Desserts, Beverages",4.6,1024.0,700.0
+144,144,Mary Jane's Bakery & Deli,"Shubh Enclave, Bangalore",450,"Bakery, Desserts, Sandwich, Beverages",3.4,3.0,225.0
+145,145,Hitchki,"Sarjapur Road, Bangalore",1900,"Bar Food, Continental, North Indian, Asian, Biryani, Desserts",4.2,408.0,950.0
+146,146,Mirage,"1 Sobha, Bangalore",3000,"Asian, Chinese, Thai, Beverages, Desserts",4.1,0.0,1500.0
+147,147,Cafe Gujjubhai,"Sarjapur Road, Bangalore",300,"North Indian, Gujarati, Street Food, Fast Food",3.5,595.0,150.0
+148,148,Cafe Palmyra,"Palm Meadows Club, Whitefield, Bangalore",2500,"Chinese, North Indian, Continental, Oriental, Sichuan, South Indian, Desserts",4.2,0.0,1250.0
+149,149,La Utsav - Grand Mercure,"Grand Mercure, Bangalore",2500,"North Indian, South Indian, Continental, Oriental, Italian, Desserts, Beverages, Shake",4.1,29.0,1250.0
+150,150,Badmaash,"Koramangala 5th Block, Bangalore",2500,"Bar Food, North Indian, Italian, Mughlai, Desserts",4.2,6.0,1250.0
+151,151,BumbleBee Brauhaus,"Indiranagar, Bangalore",2600,"Thai, Chinese, South Indian, Continental, North Indian, Italian, Desserts, Beverages",3.6,68.0,1300.0
+152,152,153 Biere Street,"Whitefield, Bangalore",2000,"Asian, Continental, North Indian, Malaysian, Italian, Desserts",4.2,463.0,1000.0
+153,153,Plan B X Hangover,"HSR, Bangalore",2000,"American, Burger, Pizza, Continental, Bar Food, Desserts, Beverages",4.1,303.0,1000.0
+154,154,Sunburn Union,"Koramangala 6th Block, Bangalore",2000,"Bar Food, South Indian, North Indian",3.5,0.0,1000.0
+155,155,Hashtag 88,"Marathahalli, Bangalore",1400,"Asian, Chinese, Salad, North Indian, Fast Food, Biryani, Desserts",4.3,0.0,700.0
+156,156,Gawky Goose,"Old Airport Road, Bangalore",2200,"Italian, Biryani, North Indian, Fast Food, Seafood, Asian, Desserts, Beverages",4.4,874.0,1100.0
+157,157,Candles  Brewhouse,"RMZ Azure, Bangalore",2500,"Italian, Continental, American, Pizza, North Indian",4.3,15.0,1250.0
+158,158,Kaara By The Lake,"Ulsoor, Bangalore",850,"Italian, Desserts, Beverages",4.1,0.0,425.0
+159,159,Brahma Brews,"JP Nagar, Bangalore",2500,"Asian, North Indian, South Indian",4.5,1783.0,1250.0
+160,160,Chalukya Samrat Cafe Since 1977,"1 Sobha, Bangalore",1000,"South Indian, North Indian, Chinese, Street Food, Beverages",4.4,469.0,500.0
+161,161,Pijja,"Indiranagar, Bangalore",500,"Italian, Pizza",0.0,0.0,250.0
+162,162,The Fisherman's Wharf,"Sarjapur Road, Bangalore",1900,"North Indian, Chinese, Seafood, Goan, Finger Food, Continental, Desserts, Beverages",4.1,1889.0,950.0
+163,163,The Fixx,"Koramangala 4th Block, Bangalore",1800,"North Indian, Continental, Chinese, Seafood, Pasta, Pizza, Biryani, Beverages",4.1,9.0,900.0
+164,164,Glen's Bakehouse,"Indiranagar, Bangalore",800,"Bakery, Cafe, Italian, Continental, Fast Food, Beverages, Desserts",3.9,9666.0,400.0
+165,165,Teatings,"HSR, Bangalore",1000,"Continental, Pasta, Sandwich, Salad, Tea, Beverages, Desserts",0.0,3.0,500.0
+166,166,Brother Barley Brewing Company,"HSR, Bangalore",1800,"Finger Food, Continental, North Indian, Chinese, Italian, Beverages, Desserts",4.2,115.0,900.0
+167,167,Vapour Brewpub And Diner,"Sarjapur Road, Bangalore",2200,"North Indian, Continental, Italian, European, Biryani, Salad, Desserts, Beverages",4.3,376.0,1100.0
+168,168,Omega IX Cocktail Bar And Global Kitchen,"Sahakara Nagar, Bangalore",1800,"North Indian, Continental, Asian, Sushi, Italian, Desserts, Beverages",4.5,63.0,900.0
+169,169,Shiro,"UB City, Bangalore",3500,"Japanese, Sushi, Asian, Desserts, Thai, Korean, Cantonese, Vietnamese",4.1,876.0,1750.0
+170,170,Skyline Rooftop Bar & Kitchen,"Livin Hub Hotel, Bangalore",1800,"Chinese, Italian, Fast Food, North Indian, Kebab, Biryani, Continental, Beverages",4.4,56.0,900.0
+171,171,JULIET,"1 MG Road Mall, MG Road, Bangalore",2500,"Asian, Continental, Sushi, Thai, Japanese, Desserts",4.0,0.0,1250.0
+172,172,Onesta,"Kammanahalli, Bangalore",1000,"Pizza, Pasta, Sandwich, Fast Food, Desserts, Beverages",4.2,12500.0,500.0
+173,173,Sstella Asian Kitchen And Bar,"Royal Meenakshi Mall, Bannerghatta Road, Bangalore",1000,"Asian, Chinese, Desserts, Beverages",4.5,22.0,500.0
+174,174,Cocobolo,"New BEL Road, Bangalore",1000,"Bar Food, North Indian, Continental, Italian, Chinese, BBQ, Desserts, Beverages",4.3,0.0,500.0
+175,175,Kathpal's,"Vega City, Bannerghatta Road, Bangalore",1000,"North Indian, Chinese, Biryani, Street Food, Desserts, Beverages",4.2,727.0,500.0
+176,176,Hitchki,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",2000,"North Indian, Chinese, Continental, Biryani, Finger Food, Bar Food, Desserts, Beverages",4.4,511.0,1000.0
+177,177,Ambedo Kitchen|Taproom,"JP Nagar, Bangalore",1500,"Continental, Asian, North Indian, Italian, Pizza, Sushi",4.5,0.0,750.0
+178,178,Gwalia,"ITPL Main Road, Whitefield, Bangalore",250,"North Indian, Street Food, Ice Cream, Mithai, Desserts",4.0,387.0,125.0
+179,179,The Rajputana,"Brookefield, Bangalore",1000,"North Indian, Gujarati, Desserts, Mithai, Beverages",3.2,195.0,500.0
+180,180,Rasta Cafe,"Mysore Road, Bangalore",1200,"Cafe, Continental, Italian, Beverages, Desserts",3.2,0.0,600.0
+181,181,Tiamo - Conrad Bengaluru,"Conrad Bengaluru, Ulsoor, Bangalore",3000,"Italian, Mediterranean, Fast Food",4.0,0.0,1500.0
+182,182,White Garden,"Kalyan Nagar, Bangalore",1600,"North Indian, Italian, Lebanese, Asian, Continental, Desserts",4.2,0.0,800.0
+183,183,1522 - The Pub,"JP Nagar, Bangalore",1800,"Chinese, North Indian, Mughlai, Finger Food, Seafood",4.4,1472.0,900.0
+184,184,The Peak,"Sahakara Nagar, Bangalore",1000,"Continental, Mangalorean",4.3,0.0,500.0
+185,185,Burma Burma - Indiranagar,"Indiranagar, Bangalore",1800,"Burmese, Asian, Salad, Bubble Tea, Ice Cream, Desserts",4.8,1985.0,900.0
+186,186,Mallika Biryani - Bileshivale Road,"Hennur, Bangalore",500,"Biryani, South Indian",4.2,6347.0,250.0
+187,187,Punjab Grill,"Forum Shantiniketan Mall, Whitefield, Bangalore",2000,"North Indian, Kebab, Biryani, Desserts, Beverages",4.4,3778.0,1000.0
+188,188,The Pump House,"JP Nagar, Bangalore",2500,"Continental, Chinese, North Indian, Italian, Asian, Salad, Pizza, Desserts",4.4,398.0,1250.0
+189,189,Pizza 4P's,"Indiranagar, Bangalore",1000,Pizza,0.0,0.0,500.0
+190,190,Pasta Street,"JP Nagar, Bangalore",1800,"Pasta, Pizza, Italian, Salad, Desserts, Beverages",4.4,2255.0,900.0
+191,191,The Filter Coffee,"Indiranagar, Bangalore",200,"South Indian, Beverages",3.6,2330.0,100.0
+192,192,The Pallet,"Whitefield, Bangalore",2500,"Finger Food, North Indian, Continental, Chinese, Italian, Beverages",4.3,2622.0,1250.0
+193,193,The Groot,"Bhartiya Mall of Bengaluru, Bangalore",1000,"Italian, North Indian, Chinese, Burger, Pasta, Pizza, Salad, Desserts",3.8,29.0,500.0
+194,194,Flyover Drinkery,"Esteem Mall, Hebbal, Bangalore",1800,"Bar Food, Continental, Oriental, Asian, Pasta, North Indian, South Indian, Desserts",4.4,0.0,900.0
+195,195,Geometry Gastropub,"New BEL Road, Bangalore",1600,"Continental, North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages",4.4,0.0,800.0
+196,196,The Persian Terrace - Sheraton Grand Bangalore Hotel at Brigade Gateway,"Sheraton Grand Bangalore Hotel at Brigade Gateway, Bangalore",3500,"Iranian, Mediterranean, Afghan, Seafood, Desserts",4.2,0.0,1750.0
+197,197,Burger King,"HSR, Bangalore",400,"Burger, Fast Food, Desserts, Beverages",3.8,45400.0,200.0
+198,198,Burgermeister - Burgers Shakes & Wings,"HSR, Bangalore",300,"Burger, Fast Food, Shake, Beverages, Desserts",3.8,811.0,150.0
+199,199,Tanjosh,"Domlur, Bangalore",1000,"North Indian, Mughlai, Chinese, Desserts",0.0,2.0,500.0
+200,200,Flechazo,"Marathahalli, Bangalore",1000,"North Indian, Chinese, Pizza, Continental, Fast Food, Desserts, Shake, Beverages",4.3,19.0,500.0
+201,201,Plan B,"Koramangala 7th Block, Bangalore",1600,"American, Continental, Burger, Pizza, Tex-Mex, Fast Food",4.0,451.0,800.0
+202,202,Levels Pub & Kitchen,"JP Nagar, Bangalore",1700,"Asian, South Indian, North Indian",4.4,724.0,850.0
+203,203,"Torye Drink, Dine & Dance","Rajarajeshwari Nagar, Bangalore",2000,Continental,3.7,0.0,1000.0
+204,204,Bologna,"Indiranagar, Bangalore",1500,"Italian, Pasta, Pizza, Desserts",4.8,958.0,750.0
+205,205,The Soda Factory,"Nagarbhavi, Bangalore",1100,"North Indian, Chinese, Pasta, Pizza, Fast Food, Biryani, Desserts, Beverages",4.3,220.0,550.0
+206,206,Khai Khai,"HSR, Bangalore",500,"Bengali, North Indian, Biryani, Rolls, Continental, Street Food, Beverages",4.1,10100.0,250.0
+207,207,Cafe Reset Your Happy Place,"Koramangala 6th Block, Bangalore",950,"Healthy Food, Continental, Italian, Beverages",4.6,131.0,475.0
+208,208,Sugar Factory Reloaded,"Koramangala 5th Block, Bangalore",1800,"North Indian, Continental, Italian, Chinese, Asian, American",4.1,4.0,900.0
+209,209,Geist Brewing Co.,"Old Madras Road, Bangalore",1700,"American, Pizza, Italian, Fast Food, North Indian, Pasta, Desserts, Beverages",4.2,198.0,850.0
+210,210,Rajdhani,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1200,"Gujarati, North Indian, Rajasthani",4.0,4566.0,600.0
+211,211,Inanna Tap Room,"Bannerghatta Road, Bangalore",2000,"Chinese, North Indian, Burger, Pizza, Italian, Desserts",4.1,407.0,1000.0
+212,212,Dobaraa,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1200,"Continental, North Indian, Salad, Desserts",4.3,272.0,600.0
+213,213,Third Wave Coffee,"Banashankari, Bangalore",700,"Cafe, Coffee, Sandwich, Pizza, Fast Food, Tea, Beverages",4.1,967.0,350.0
+214,214,Vyana Flavors Of Nature,"JP Nagar, Bangalore",1700,"North Indian, Oriental, Continental, Chinese, Salad, Pizza, Fast Food, Desserts",3.9,106.0,850.0
+215,215,Toca,"Koramangala 5th Block, Bangalore",1400,"Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts",4.2,6.0,700.0
+216,216,Oziano,"Varthur Main Road, Whitefield, Bangalore",1000,"Bengali, Biryani",4.0,7847.0,500.0
+217,217,Kapoor's Chaat Bhandaar,"Sarjapur Road, Bangalore",500,"Street Food, Desserts, Beverages",4.0,196.0,250.0
+218,218,Pinds Of Punjab,"Kadubeesanahalli, Bangalore",200,"North Indian, Street Food, Beverages",4.4,611.0,100.0
+219,219,Yellow Door - The Neighbourhood Kitchen,"Koramangala 5th Block, Bangalore",1100,"North Indian, Asian, Italian, Fast Food",4.3,193.0,550.0
+220,220,Dock 66,"Whitefield, Bangalore",1800,"North Indian, South Indian",4.3,1.0,900.0
+221,221,Sindh Punjab,"Brookefield, Bangalore",400,"North Indian, Sindhi, Street Food, Beverages, Chinese",4.0,1316.0,200.0
+222,222,Yuki,"Indiranagar, Bangalore",1600,"Asian, Japanese, Sushi, Thai, Chinese, Salad, Desserts",4.5,144.0,800.0
+223,223,Gopaljee Cafe,"Brookefield, Bangalore",400,"Street Food, North Indian",4.2,4855.0,200.0
+224,224,Communiti,"Brigade Road, Bangalore",1800,"American, Continental, European, Italian, Oriental, Burger, Beverages",4.5,0.0,900.0
+225,225,A2B - Adyar Ananda Bhavan,"Varthur Main Road, Whitefield, Bangalore",700,"South Indian, Street Food, Biryani, Beverages",4.1,32000.0,350.0
+226,226,Daysie - All Day Casual Bar,"MG Road, Bangalore",1300,"North Indian, Italian, Continental, Asian, Chinese, Bar Food, Desserts",4.4,112.0,650.0
+227,227,Poco A Poco - Global Food & Music,"Whitefield, Bangalore",1000,"Continental, Chinese, North Indian, Italian, Cafe, Asian, South Indian, Beverages",4.5,20.0,500.0
+228,228,Barrys Sky Lounge,"Kalyan Nagar, Bangalore",1000,"Chinese, North Indian, Oriental, Mughlai, Biryani",4.3,43.0,500.0
+229,229,Monsoon - The Park Bangalore,"The Park, MG Road, Bangalore",3500,"Italian, North Indian, Continental, Asian, Seafood, Desserts",3.8,73.0,1750.0
+230,230,Lifetree,"Richmond Road, Bangalore",1700,"North Indian, Continental, Pizza, Fast Food, Biryani, Desserts, Beverages",4.3,43.0,850.0
+231,231,The Reservoire,"Koramangala 5th Block, Bangalore",2000,"North Indian, Biryani, Asian, Italian, Continental, Bar Food, Desserts, Beverages",4.4,799.0,1000.0
+232,232,Brooks And Bonds Brewery,"Koramangala 5th Block, Bangalore",2000,"Continental, American, North Indian, Italian, Fast Food, Beverages, Desserts",4.2,71.0,1000.0
+233,233,Xochi Bar And Kitchen,"Bellandur, Bangalore",2500,"Asian, North Indian, Continental",4.5,416.0,1250.0
+234,234,Stegi - Modern Indian,"Jayanagar, Bangalore",1400,"North Indian, Italian, Fast Food, Desserts, Beverages",4.1,107.0,700.0
+235,235,Full Circle,"Rajarajeshwari Nagar, Bangalore",1504,North Indian,4.1,422.0,752.0
+236,236,Down Town Tap Room,"Brigade Road, Bangalore",1700,"Continental, Pizza, Burger, Fast Food, Biryani, Desserts, Bar Food, Beverages",4.6,0.0,850.0
+237,237,Indigo XP,"Koramangala 5th Block, Bangalore",2000,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",4.0,6.0,1000.0
+238,238,House Of Commons,"HSR, Bangalore",1200,"Bar Food, Fast Food, North Indian, Continental, Seafood, Italian, Chinese, Desserts",4.5,1296.0,600.0
+239,239,Chianti,"Forum Falcon City Mall, Kanakapura Roaad, Bangalore",1800,"Italian, Pizza, Pasta, Desserts",4.9,322.0,900.0
+240,240,Grill Daddy,"Kalyan Nagar, Bangalore",1100,"Continental, Pizza, Burger, Sandwich, Steak, Desserts, Shake, Beverages",4.2,204.0,550.0
+241,241,Mannheim Craft Brewery,"Garuda Mall, Magrath Road, Bangalore",1500,"South Indian, North Indian, Continental, Desserts, Asian",4.4,0.0,750.0
+242,242,Babai Tiffins,"Sarjapur Road, Bangalore",150,South Indian,4.0,3087.0,75.0
+243,243,Kling Brewery,"Church Street, Bangalore",1500,"Continental, European, Asian, Chinese, North Indian, South Indian, Seafood",4.2,0.0,750.0
+244,244,Drink & Dine,"SG Arcade, Bangalore",1700,"North Indian, Chinese, Mughlai, Sandwich, Burger, Pizza, Biryani, Desserts",4.2,278.0,850.0
+245,245,Maverick & Farmer Coffee,"Koramangala 4th Block, Bangalore",1000,"Cafe, Sandwich, Fast Food, Salad, Burger, Italian, Desserts, Beverages",3.9,183.0,500.0
+246,246,2 Rabbits Bakes,"Koramangala 5th Block, Bangalore",600,"Bakery, Desserts",3.9,0.0,300.0
+247,247,Thela Tapri By Sharma's Kitchen,"BTM, Bangalore",250,"North Indian, Fast Food",3.9,1913.0,125.0
+248,248,Ishaara,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",2500,"North Indian, Mughlai, Kebab, Biryani",4.5,148.0,1250.0
+249,249,Proxy,"Marathahalli, Bangalore",1200,"Finger Food, Street Food, Pasta, Bar Food, Desserts",4.4,84.0,600.0
+250,250,Horizon,"World Trade Center, Bangalore",3000,"Chinese, Japanese, Asian, Salad, Thai, Desserts, Beverages",4.4,0.0,1500.0
+251,251,Don't Tell Mama,"HSR, Bangalore",2000,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",3.9,0.0,1000.0
+252,252,Shokudo,"Jayanagar, Bangalore",1500,"Japanese, Thai, Chinese, Asian, Sushi, Desserts, Beverages, Korean",4.1,158.0,750.0
+253,253,Kappa Chakka Kandhari,"Koramangala 6th Block, Bangalore",1800,"Kerala, South Indian, Desserts, Beverages",4.2,0.0,900.0
+254,254,AB's - Absolute Barbecues,"Marathahalli, Bangalore",1850,"Biryani, BBQ, Kebab, North Indian, Desserts",4.5,2712.0,925.0
+255,255,MoMo Cafe - Courtyard By Marriott,"Courtyard & Fairfield by Marriott, Bangalore",2800,"North Indian, Asian, Fast Food, Continental, Italian, Desserts, Beverages",4.0,112.0,1400.0
+256,256,Chai Point,"Church Street, Bangalore",250,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",4.1,2571.0,125.0
+257,257,Gatsby,"Bannerghatta Road, Bangalore",2500,"Finger Food, Healthy Food, North Indian, Asian, Sushi, Chinese, South Indian, Pizza",4.4,141.0,1250.0
+258,258,Hangover Brewery,"Koramangala 7th Block, Bangalore",2000,"Continental, North Indian, Chinese, Finger Food, Burger, Pizza, Desserts",4.0,4.0,1000.0
+259,259,Gilly's Restobar,"Bannerghatta Road, Bangalore",2000,"North Indian, European, Bar Food, Italian, Fast Food, Desserts, Beverages",4.3,98.0,1000.0
+260,260,Celeb’s Restobar,"Brookefield, Bangalore",1300,Bar Food,4.3,0.0,650.0
+261,261,The Irish House,"RMZ Ecoworld, Bellandur, Bangalore",2000,"European, American, Italian, BBQ, Beverages, Desserts",4.2,173.0,1000.0
+262,262,Dhaba - Estd 1986 Delhi,"Indiranagar, Bangalore",2500,"North Indian, Mughlai, Desserts, Paan",4.2,2816.0,1250.0
+263,263,21st Amendment Gastrobar,"Indiranagar, Bangalore",1700,"North Indian, Fast Food, Chinese, Bar Food, Sichuan, Beverages",4.3,40.0,850.0
+264,264,Shelby Rooftop Taproom & Kitchen,"Nagarbhavi, Bangalore",1400,"Asian, North Indian",4.1,6.0,700.0
+265,265,Shree Aahar,"HSR, Bangalore",500,"South Indian, North Indian, Chinese, Sandwich, Street Food",3.7,242.0,250.0
+266,266,Essence Of Kolkata,"Whitefield, Bangalore",650,"Bengali, Biryani, North Indian, Chinese, Mughlai, Beverages",3.4,224.0,325.0
+267,267,CTR Shri Sagar - Since 1920,"Malleshwaram, Bangalore",150,South Indian,4.7,35400.0,75.0
+268,268,Rasotsav,"Forum Falcon City Mall, Kanakapura Roaad, Bangalore",1200,"Rajasthani, Gujarati, North Indian, Mithai",4.3,288.0,600.0
+269,269,Chowki Multicuisine Restaurant,"Whitefield, Bangalore",700,"North Indian, Chinese, Seafood, Fast Food, Biryani, Sichuan, Desserts, Beverages",4.2,461.0,350.0
+270,270,Geist Brewing Co.,"Bhartiya Mall of Bengaluru, Bangalore",1800,"Continental, Italian, North Indian, South Indian, Bar Food, Beverages",0.0,3.0,900.0
+271,271,Garden City Beer Collective,"Yelahanka, Bangalore",2000,"Pizza, Continental, Sushi, Asian, South Indian, Pasta, Desserts",4.3,119.0,1000.0
+272,272,Limelight - Royal Orchid Hotel,"Royal Orchid Hotel,  Old Airport Road, Bangalore",3500,"Asian, Continental, North Indian, South Indian, Healthy Food, Beverages, Desserts",3.9,2772.0,1750.0
+273,273,Chaayos Chai+Snacks=Relax,"Kammanahalli, Bangalore",350,"Tea, Beverages, Sandwich, Street Food",3.3,3613.0,175.0
+274,274,Cable Car,"Jayanagar, Bangalore",1200,"Oriental, Continental, Pasta, North Indian, Desserts",4.0,54.0,600.0
+275,275,"Cha Cha Cha - Dimsum, Sushi, Stir Fry","Phoenix Marketcity Bangalore, Whitefield, Bangalore",2500,"Asian, Chinese",4.2,167.0,1250.0
+276,276,You Mee,"Orion Mall, Malleshwaram, Bangalore",2200,"Asian, Sushi, Japanese, Chinese, Desserts, Beverages",4.4,2791.0,1100.0
+277,277,Peep In Cafe,"BTM, Bangalore",300,"Cafe, Coffee, Chinese, Fast Food, Street Food, Shake, Beverages, Desserts",3.9,27.0,150.0
+278,278,Isobel,"Jayanagar, Bangalore",700,"Cafe, Continental, Italian, Beverages",4.2,14.0,350.0
+279,279,The Big Barbeque,"Marathahalli, Bangalore",2000,"BBQ, Pizza, North Indian, Pasta, Desserts, Beverages",4.4,2120.0,1000.0
+280,280,Public - The Rooftop Bar And Kitchen,"Bannerghatta Road, Bangalore",1200,"North Indian, Biryani, Oriental, Pizza, Continental",4.2,257.0,600.0
+281,281,Sidewalk Bar & Kitchen,"Marathahalli, Bangalore",1800,"North Indian, Continental, Chinese, Fast Food, Beverages",4.3,3254.0,900.0
+282,282,Dishkeyaun,"Forum Rex Walk, Bangalore",2000,"Modern Indian, Biryani, Desserts",3.9,0.0,1000.0
+283,283,One Night In Bangkok,"UB City, Bangalore",2500,"Asian, Thai, Desserts, Beverages",3.9,0.0,1250.0
+284,284,Sly Granny,"Indiranagar, Bangalore",2500,"Continental, Italian, Salad, Sandwich, Pizza, Middle Eastern, Desserts",4.4,406.0,1250.0
+285,285,Chili's American Grill & Bar,"Orion Mall, Malleshwaram, Bangalore",1800,"Continental, Mexican, American, Italian, Desserts, Beverages",4.3,988.0,900.0
+286,286,The 13th Floor,"Barton Centre, Bangalore",2500,"North Indian, Asian, Kebab, Chinese, Salad, Beverages, Desserts",4.3,234.0,1250.0
+287,287,Spice Terrace - JW Marriott,"JW Marriott Bengaluru, Lavelle Road, Bangalore",3500,"North Indian, Mughlai, Desserts",4.2,0.0,1750.0
+288,288,Secret Of Bangalore,"Rajarajeshwari Nagar, Bangalore",1600,"Italian, Continental, Asian, Pizza, Pasta, Desserts, Beverages",4.1,252.0,800.0
+289,289,Suku Japanese And Thai Restaurant,"HSR, Bangalore",800,"Japanese, Thai",4.7,416.0,400.0
+290,290,Bistro Claytopia,"Koramangala 1st Block, Bangalore",1100,"Cafe, American, Italian, Modern Indian, Continental, Desserts, Beverages",3.7,585.0,550.0
+291,291,Madurai Idly Shop,"ITPL Main Road, Whitefield, Bangalore",300,South Indian,3.1,8194.0,150.0
+292,292,Pincode 24 Bar & Bistro,"Hebbal, Bangalore",1000,"Bar Food, Continental, North Indian, Burger, Sandwich, Panini, Beverages",0.0,0.0,500.0
+293,293,The Spice Studio,"Brookefield, Bangalore",550,"North Indian, Biryani, Chinese",3.9,560.0,275.0
+294,294,Spettacolare,"Indiranagar, Bangalore",1000,"Italian, Pizza, Pasta",3.9,0.0,500.0
+295,295,Salt - Indian Restaurant Bar & Grill,"Nexus, Koramangala, Bangalore",1800,"North Indian, Rolls, Mughlai, Seafood, Biryani, Kebab, Desserts, Beverages",4.6,2150.0,900.0
+296,296,Tiger Tiger Brewhouse,"Sarjapur Road, Bangalore",1600,"North Indian, Continental, Oriental, Mughlai, Andhra, European, Beverages, Desserts",4.1,98.0,800.0
+297,297,Foxtrot,"Marathahalli, Bangalore",1900,"North Indian, Mughlai, Biryani, Desserts, Beverages",4.2,484.0,950.0
+298,298,Reboot The Pub,"Marathahalli, Bangalore",1200,"North Indian, Chinese, Continental, Italian, Biryani, Mughlai, Desserts",4.0,12.0,600.0
+299,299,Litti Cafe,"Sarjapur Road, Bangalore",200,"Bihari, North Indian, Street Food, Desserts",3.9,51.0,100.0
+300,300,Desi Dawat,"ITPL Main Road, Whitefield, Bangalore",550,"North Indian, Chinese, Street Food",3.7,47.0,275.0
+301,301,Bombay Adda,"Koramangala 7th Block, Bangalore",2000,"Continental, North Indian, Asian, Pizza, Fast Food, Kebab, Desserts, Beverages",4.2,0.0,1000.0
+302,302,Enne,"Malleshwaram, Bangalore",1000,"South Indian, Andhra, Seafood, Biryani, Continental",3.9,21.0,500.0
+303,303,Dyu Art Cafe,"Koramangala 8th Block, Bangalore",850,"Cafe, Continental, Burger, Sandwich, Pizza, Fast Food, Desserts, Beverages",4.3,566.0,425.0
+304,304,You Me And Tea,"HSR, Bangalore",400,"Chinese, Biryani, Street Food, Fast Food, Sandwich, North Indian, Tea, Beverages",4.2,997.0,200.0
+305,305,Uncle Peter's Pancakes & Cafe,"Domlur, Bangalore",300,"Desserts, Tea, Beverages, Fast Food",4.1,32.0,150.0
+306,306,Skyye,"UB City, Bangalore",2200,"Continental, Asian, Thai, Seafood, Italian, Beverages, Desserts",4.3,8.0,1100.0
+307,307,Fenny's Lounge And Kitchen,"Koramangala 7th Block, Bangalore",1900,"Mediterranean, Continental, Italian, Desserts, Beverages",4.5,33.0,950.0
+308,308,Big Pitcher,"Sarjapur Road, Bangalore",1800,"North Indian, Continental, Mughlai, Chinese, Italian, Biryani, Desserts, Beverages",4.5,1353.0,900.0
+309,309,Altitude Kitchen & Bar,"Basaveshwara Nagar, Bangalore",1800,"Chinese, Seafood, North Indian, Kebab, Pizza, Finger Food, Biryani, Desserts",4.2,0.0,900.0
+310,310,Aromas Of Biryani,"Jayanagar, Bangalore",1000,"Biryani, North Indian, South Indian",4.3,6012.0,500.0
+311,311,La Casa Brewery And Kitchen,"Sarjapur Road, Bangalore",2000,"Continental, North Indian, Mughlai, Chinese, Finger Food, Steak, Desserts, Beverages",4.3,2053.0,1000.0
+312,312,Barbeque Nation,"Electronic City, Bangalore",1900,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts",4.3,2916.0,950.0
+313,313,IGNYT -The Beer Station,"Kumaraswamy Layout, Bangalore",2000,Continental,0.0,0.0,1000.0
+314,314,California Burrito,"HSR, Bangalore",450,"Mexican, Healthy Food, American, Salad, Fast Food, Beverages",4.4,16300.0,225.0
+315,315,Windmills,"Craftworks, Bangalore",3500,"Continental, North Indian, Mughlai, Kebab, Desserts",4.7,1429.0,1750.0
+316,316,Barista Coffee,"Embassy Manyata Business Park,  Nagawara , Bangalore",600,"Cafe, Fast Food, Beverages, Desserts",3.7,292.0,300.0
+317,317,Jus' Trufs,"Jakkur, Bangalore",1200,"Cafe, Italian, Fast Food, Pizza, Desserts, Beverages",3.9,1838.0,600.0
+318,318,Khmer Kitchen,"JP Nagar, Bangalore",2500,"Chinese, Asian, Thai, Japanese",4.6,1049.0,1250.0
+319,319,Zyng - Pan Asian Dining,"Ulsoor, Bangalore",1200,"Asian, Japanese, Korean, Chinese, Thai, Seafood, Desserts",4.3,25.0,600.0
+320,320,Café Siri,"Brookefield, Bangalore",250,"North Indian, South Indian, Sandwich, Biryani, Desserts, Beverages, Chinese",4.2,559.0,125.0
+321,321,HoverPulse Cafe,"Koramangala 4th Block, Bangalore",300,"Cafe, Coffee, Street Food, Bakery, Beverages",3.8,42.0,150.0
+322,322,Sector 144,"Electronic City, Bangalore",1100,"North Indian, Chinese, Kebab, Mughlai, Italian, Fast Food, Desserts, Bar Food",4.4,0.0,550.0
+323,323,Karim's Delhi 6 - Since 1913,"St. Marks Road, Bangalore",950,"Mughlai, North Indian, Rolls",3.6,1357.0,475.0
+324,324,Sri Manjunatha Cafe,"BTM, Bangalore",200,"South Indian, Chinese, Street Food, Beverages",3.9,17.0,100.0
+325,325,Lapis - The Oberoi,"The Oberoi, MG Road, Bangalore",4000,"North Indian, South Indian, Mediterranean, European, American, Italian",4.1,0.0,2000.0
+326,326,Aramana Oru Nadan Oonu Kada,"Electronic City, Bangalore",300,"South Indian, Kerala, Seafood",0.0,17.0,150.0
+327,327,Blink by Zoca,"Whitefield, Bangalore",1500,"North Indian, Chinese, Thai, Continental",4.0,18.0,750.0
+328,328,One Atria Cafe - Radisson Blu Atria,"Radisson Blu Atria, Bangalore",2500,"South Indian, North Indian, Chinese, Biryani",3.8,6.0,1250.0
+329,329,Pinxx - Royal Orchid Central,"Royal Orchid Central, MG Road, Bangalore",1900,"Continental, North Indian, Chinese, Sandwich, Fast Food, Desserts, Beverages",3.7,246.0,950.0
+330,330,Great Room - Holiday Inn Express & Suites,"Hoskote, Bangalore",2000,"North Indian, Chinese, Continental, Biryani, Fast Food, Desserts, Beverages",4.1,450.0,1000.0
+331,331,Rajwadi,"Brookefield, Bangalore",600,"North Indian, Rajasthani, Street Food, Biryani, Mithai, Desserts, Shake, Beverages",3.8,12600.0,300.0
+332,332,Isar Ji Cafe,"Bommanahalli, Bangalore",200,"North Indian, Chinese, Street Food, Desserts, Beverages",3.7,1139.0,100.0
+333,333,The Coffee Brewery,"Indiranagar, Bangalore",800,"Cafe, Coffee, Sandwich, Fast Food, Bakery, Ice Cream, Beverages",0.0,0.0,400.0
+334,334,CUR8 - Four Seasons Hotel,"Four Seasons Hotel, RT Nagar, Bangalore",4000,"European, Italian, Pizza, North Indian, Salad",4.4,1.0,2000.0
+335,335,HumbleBean Coffee,"Indiranagar, Bangalore",650,"Cafe, Coffee, Bakery, Healthy Food, Desserts, Beverages",3.8,99.0,325.0
+336,336,Monk's Bar & Social,"BTM, Bangalore",1000,"Bar Food, South Indian, Asian, European, Italian, North Indian, Desserts, Beverages",4.5,8.0,500.0
+337,337,Paragon Restaurant - Since 1939,"1 Sobha, Bangalore",1000,"Kerala, Oriental, South Indian, Chinese, Seafood, Desserts, Beverages",4.0,1657.0,500.0
+338,338,Haldiram's Sweets And Namkeen,"Basaveshwara Nagar, Bangalore",400,"Mithai, Bakery, Desserts, North Indian, Street Food",3.8,50.0,200.0
+339,339,Pizza Hut,"RT Nagar, Bangalore",600,"Pizza, Italian, Pasta, Fast Food, Desserts, Beverages",4.0,8159.0,300.0
+340,340,District 6 Pub Brewery & Kitchen,"Malleshwaram, Bangalore",2500,"North Indian, Pizza, Italian, Bar Food, Continental, Asian, Desserts",4.5,42.0,1250.0
+341,341,Shao,"Radisson Blu, Marathahalli, Bangalore",3500,"Thai, Japanese, Chinese, Asian, Sichuan, Beverages",4.5,66.0,1750.0
+342,342,Arbor Brewing Company,"Brigade Road, Bangalore",1800,"American, Continental, Fast Food, Beverages",4.6,141.0,900.0
+343,343,Cafe 1617,"Kalyan Nagar, Bangalore",1000,"Cafe, Coffee, Continental, Chinese, Fast Food, Desserts, Tea, Beverages",3.6,19.0,500.0
+344,344,Peepai,"Hebbal, Bangalore",2500,"North Indian, Pizza, Chinese, European, Bar Food, Biryani, Desserts, Beverages",4.5,639.0,1250.0
+345,345,We: Neighborhood,"Brigade Road, Bangalore",1400,"European, American, North Indian, Burger, Pizza, Desserts, Beverages",4.3,0.0,700.0
+346,346,Down Town Diner,"Brigade Road, Bangalore",750,"Cafe, Coffee, Fast Food, Pizza, Burger, Sandwich, Desserts, Beverages",4.3,0.0,375.0
+347,347,Aroma's Hyderabad House,"HSR, Bangalore",950,"Hyderabadi, Biryani, North Indian, Mughlai, Chinese, Seafood, Kebab, Beverages",4.1,12200.0,475.0
+348,348,The Spiceberry,"Bellandur, Bangalore",1000,"North Indian, Pasta, Pizza, Continental, Salad, Sandwich, Kebab, Desserts",4.4,48.0,500.0
+349,349,Societe Rangoon,"JP Nagar, Bangalore",1000,"Burmese, Asian",0.0,4.0,500.0
+350,350,Devaras Restaurant,"Rajajinagar, Bangalore",150,"South Indian, Street Food",0.0,0.0,75.0
+351,351,The Aviary,"JW Marriott Bengaluru Prestige Golfshire Resort & Spa, International Airport, Bangalore",3000,"South Indian, North Indian",3.9,0.0,1500.0
+352,352,Cafe Morish,"Richmond Road, Bangalore",800,"Continental, Asian, Pizza, Wraps, Sandwich, Burger, Desserts, Beverages",4.2,309.0,400.0
+353,353,Babylonia - Global Food & Cocktails,"Koramangala 7th Block, Bangalore",1500,"Continental, North Indian, Asian, Italian, Mughlai, Mediterranean, Bar Food, Desserts",4.5,26.0,750.0
+354,354,Seta,"Hilton Bangalore Embassy GolfLinks, Domlur, Bangalore",2500,"Asian, Mediterranean, Chinese, Desserts",4.4,0.0,1250.0
+355,355,Lord Of The Drinks,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1700,"Finger Food, Continental, European, North Indian, Italian, Asian, Sichuan",4.0,2.0,850.0
+356,356,Rooftop at Raw,"Koramangala 5th Block, Bangalore",1200,"Continental, Italian, Mexican, Pizza, Pasta, Beverages",4.0,1.0,600.0
+357,357,Zed The Baker,"Church Street, Bangalore",800,"Bakery, Burger, Pizza, Desserts",4.0,531.0,400.0
+358,358,Blue Tokai Coffee Roasters,"Koramangala 5th Block, Bangalore",600,"Cafe, Coffee, Healthy Food, Beverages, Desserts, American, Sandwich",3.9,52.0,300.0
+359,359,Toscano,"Varthur Main Road, Whitefield, Bangalore",1800,"Italian, Pizza, Pasta, Continental, Desserts, Steak, Seafood, Beverages",4.6,3435.0,900.0
+360,360,Hakuna Matata,"JP Nagar, Bangalore",1700,"North Indian, Asian, Seafood, Chinese, Biryani, Fast Food, Desserts, Beverages",4.4,4924.0,850.0
+361,361,Thelagram,"JP Nagar, Bangalore",800,"North Indian, Street Food, Desserts, Beverages",0.0,58.0,400.0
+362,362,Conçu,"Indiranagar, Bangalore",500,"Cafe, Fast Food",4.3,314.0,250.0
+363,363,Sherlock's - Lounge & Kitchen,"Yelahanka, Bangalore",2500,"Continental, North Indian, Finger Food, Chinese, Fast Food, South Indian, Desserts, Beverages",4.1,3.0,1250.0
+364,364,Öz by Kebapci,"UB City, Bangalore",1800,"Turkish, Mediterranean, Middle Eastern",4.6,0.0,900.0
+365,365,Blurred,"Koramangala 5th Block, Bangalore",1000,"North Indian, South Indian, Continental, Chinese",4.1,1.0,500.0
+366,366,Oota Bangalore,"Craftworks, Bangalore",1200,"Mangalorean, South Indian, Salad, Desserts",4.9,1112.0,600.0
+367,367,Kazé,"Lavelle Road, Bangalore",3500,"Japanese, Sushi, Thai, Asian",4.5,0.0,1750.0
+368,368,LUPA,"MG Road, Bangalore",5000,"Mediterranean, European, Italian, Salad, Desserts, Beverages",3.8,0.0,2500.0
+369,369,Big Barrel BrewPub,"Rajarajeshwari Nagar, Bangalore",2000,"Chinese, Salad, North Indian, Oriental, Mexican, Italian, Continental, Beverages",4.3,139.0,1000.0
+370,370,Mainland China,"Whitefield, Bangalore",2000,"Chinese, Asian, Seafood, Sushi, Bar Food, Beverages",4.5,3432.0,1000.0
+371,371,Hopshaus,"Whitefield, Bangalore",2000,"Continental, North Indian, Chinese, Sichuan, Pizza, Asian, Finger Food, Desserts",4.1,487.0,1000.0
+372,372,Spot 360 - DoubleTree Suites by Hilton,"DoubleTree Suites By Hilton, Sarjapur, Bangalore",2500,"North Indian, Asian, Beverages",4.3,0.0,1250.0
+373,373,Easy Tiger,"Church Street, Bangalore",1700,"Finger Food, Continental",4.2,0.0,850.0
+374,374,Fire Station,"Electronic City, Bangalore",1700,"Finger Food, North Indian, Continental, Italian, Chinese, Beverages, Desserts",4.2,2402.0,850.0
+375,375,Arion Biryani's,"Bellandur, Bangalore",650,"South Indian, Biryani, Chinese",3.7,52.0,325.0
+376,376,Infuse Tea & Snacks Adda,"Marathahalli, Bangalore",150,"Tea, Juices, Shake, Beverages, Fast Food, Street Food",3.6,20.0,75.0
+377,377,9 Tables Restaurant,"Bellandur, Bangalore",650,"North Indian, Chinese, Kebab, Biryani, Tamil",4.1,320.0,325.0
+378,378,Mavalli Tiffin Room (MTR),"Basavanagudi, Bangalore",250,"South Indian, Beverages",4.4,0.0,125.0
+379,379,Namma Mysuru Cafe,"Jayanagar, Bangalore",100,"South Indian, Street Food, Beverages",3.6,19.0,50.0
+380,380,Justbe By Nidhi Nahata,"Sadashiv Nagar, Bangalore",1200,"Cafe, Healthy Food, Fast Food, Desserts, Beverages",4.3,581.0,600.0
+381,381,Hungry Hippie,"Koramangala 5th Block, Bangalore",1200,"North Indian, Italian, Continental, Mexican, Pizza, Fast Food, Desserts, Beverages",4.2,91.0,600.0
+382,382,Scottish Pub,"St. Marks Road, Bangalore",700,Finger Food,4.3,0.0,350.0
+383,383,1947,"Rajarajeshwari Nagar, Bangalore",1200,"North Indian, Desserts, Beverages",3.6,2396.0,600.0
+384,384,BurgerMan,"Indiranagar, Bangalore",700,"Fast Food, Sandwich, Salad, Burger, Beverages",4.5,505.0,350.0
+385,385,Lotus - Visthara Hotel,"Sahakara Nagar, Bangalore",1100,"North Indian, Chinese, South Indian, Fast Food",4.3,0.0,550.0
+386,386,Street Storyss,"Indiranagar, Bangalore",2500,"North Indian, Chinese, Street Food, Desserts, Beverages",4.6,728.0,1250.0
+387,387,Lucky Chan - Dimsum & Sushi Parlour,"Indiranagar, Bangalore",1900,"Japanese, Chinese, Asian, Desserts, Beverages",4.5,687.0,950.0
+388,388,Nothing Before Coffee,"Basavanagudi, Bangalore",300,"Cafe, Coffee, Tea, Shake, Fast Food, Beverages",3.9,39.0,150.0
+389,389,Sproutive,"Sarjapur Road, Bangalore",200,"Healthy Food, Juices, Beverages",3.9,13.0,100.0
+390,390,Kairali Kitchen And Restaurant,"Attibele, Bangalore",1000,"South Indian, North Indian",3.3,226.0,500.0
+391,391,Sri Annapoorna Devi Andhra Deluxe Mess,"Bellandur, Bangalore",500,"Biryani, North Indian, South Indian, Chinese",3.9,236.0,250.0
+392,392,Namma Madurai,"Marathahalli, Bangalore",200,"South Indian, Beverages",3.7,15200.0,100.0
+393,393,Fia's Lounge,"Richmond Road, Bangalore",1500,"Parsi, Lebanese, Beverages",4.2,0.0,750.0
+394,394,46 Ounces Brewgarden,"Electronic City, Bangalore",1900,"Finger Food, Asian, Chinese, Pizza, North Indian, Fast Food",4.2,625.0,950.0
+395,395,Boteco Restaurante Brasileiro,"MG Road, Bangalore",3500,"Brazilian, Steak, Salad, Finger Food, Desserts, Coffee, Beverages",4.3,0.0,1750.0
+396,396,Range Dine In & Kitchen,"Kanakapura Road, Bangalore",500,"South Indian, North Indian, Desserts",3.2,5.0,250.0
+397,397,Maya,"Jayanagar, Bangalore",1800,"Asian, North Indian, Chinese, Thai, Beverages",4.3,134.0,900.0
+398,398,Kyba- Sushi Dim Sums & More,"Sahakara Nagar, Bangalore",1400,"Chinese, Thai, Sushi, Japanese, Asian, Seafood, Desserts",4.7,402.0,700.0
+399,399,Bhola & Blonde,"Indiranagar, Bangalore",1900,"North Indian, Lucknowi, Mughlai, Biryani, Fast Food, Desserts",4.0,30.0,950.0
+400,400,Chili's Grill & Bar,"Lulu Mall, Bangalore",1600,"Mexican, American, Salad, Pizza, Tex-Mex, Italian, Desserts, Beverages",4.4,73.0,800.0
+401,401,Nanav Store & Cafe,"Indiranagar, Bangalore",950,"Pizza, Burger, Sandwich, European, Italian, Chinese",4.2,23.0,475.0
+402,402,Shift Lounge,"Domlur, Bangalore",1800,"North Indian, Italian",3.7,0.0,900.0
+403,403,Bombay Brasserie,"Indiranagar, Bangalore",2000,"North Indian, Biryani, Fast Food, Desserts, Tea",4.5,749.0,1000.0
+404,404,Chapter One Bar | Maiin,"New BEL Road, Bangalore",1400,"North Indian, South Indian, Chinese, Italian, Fast Food, Finger Food, Desserts, Beverages",4.3,266.0,700.0
+405,405,Sweets Of India,"BTM, Bangalore",300,Mithai,3.8,11.0,150.0
+406,406,Venkateshwara Hotel,"Hosur Road, Bangalore",250,"South Indian, Chinese, Biryani, North Indian, Andhra",3.6,19.0,125.0
+407,407,Jagli Tindi,"Jayanagar, Bangalore",200,South Indian,3.9,100.0,100.0
+408,408,Belur Cafe,"Jalahalli, Bangalore",400,"Cafe, Fast Food, Rolls",3.7,43.0,200.0
+409,409,Bob's Bar,"Indiranagar, Bangalore",1400,"South Indian, Biryani, Sandwich, Desserts, Bakery, Beverages",4.2,2835.0,700.0
+410,410,Salvadores,"MG Road, Bangalore",2500,"Continental, Pasta, Salad, Desserts, Beverages",4.6,0.0,1250.0
+411,411,Talli Terrace,"Church Street, Bangalore",500,"North Indian, Chinese, Fast Food",3.8,38.0,250.0
+412,412,Gabru Di Chaap,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",500,"North Indian, Momos, Fast Food, Wraps, Beverages",4.1,257.0,250.0
+413,413,Caffé Allora,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1500,"Pizza, Italian, Pasta",4.3,199.0,750.0
+414,414,Nomad Pizza,"Sarjapur Road, Bangalore",1000,"Pizza, Italian",4.4,0.0,500.0
+415,415,Via Milano,"Sarjapur Road, Bangalore",1600,"Italian, Continental, Pizza, Pasta, Salad, Desserts",4.3,933.0,800.0
+416,416,White Lotus Club,"Sarjapur Road, Bangalore",2000,"Continental, North Indian, Chinese, Italian, Asian, Beverages",3.9,0.0,1000.0
+417,417,The Big Baadshaah,"Marathahalli, Bangalore",1900,"Continental, Chinese, Asian, North Indian, Fast Food, Street Food, Desserts, Beverages",4.3,810.0,950.0
+418,418,Leon's Burgers & Wings,"Indiranagar, Bangalore",400,"Burger, Fast Food, Wraps",4.2,28200.0,200.0
+419,419,Marquis - Radisson Blu,"Radisson Blu, Marathahalli, Bangalore",2500,"Asian, Continental, North Indian, Fast Food, Beverages",4.8,0.0,1250.0
+420,420,Yauatcha,"1 MG Road Mall, MG Road, Bangalore",3000,"Chinese, Asian, Cantonese, Seafood, Tea, Desserts",4.3,447.0,1500.0
+421,421,Smooth Criminal,"Koramangala 5th Block, Bangalore",1000,"Chinese, North Indian, Pizza, Japanese, Biryani, Desserts, Beverages, Continental",3.8,2.0,500.0
+422,422,Saffron By Sanmanaa,"Rajajinagar, Bangalore",850,"North Indian, Chinese, Pizza, Fast Food, Biryani, Ice Cream, Desserts, Beverages",4.0,107.0,425.0
+423,423,Mumbai Chai Cafe,"Bellandur, Bangalore",150,"Tea, Maharashtrian, Fast Food, Street Food",0.0,0.0,75.0
+424,424,Taaza Thindi,"Banashankari, Bangalore",100,"South Indian, Beverages",4.7,0.0,50.0
+425,425,Bengaluru Cafe,"Jayanagar, Bangalore",100,South Indian,4.6,30.0,50.0
+426,426,Delhi Highway,"Indiranagar, Bangalore",1800,"North Indian, Chinese, Street Food, Kebab, Desserts, Beverages",4.1,3946.0,900.0
+427,427,Dr. Sheesha,"Rajajinagar, Bangalore",1200,"North Indian, Chinese, Continental, Italian, Pasta, Pizza, Beverages",4.2,19.0,600.0
+428,428,Beijing Bites,"Koramangala 5th Block, Bangalore",1000,"Chinese, Seafood, Thai, Rolls, Malaysian, Mughlai, Momos",4.0,10300.0,500.0
+429,429,Sanadige - Goldfinch Hotel,"Goldfinch Hotel, Seshadripuram, Bangalore",1700,"Seafood, Mangalorean, Goan, South Indian, North Indian, Chinese, Desserts, Beverages",4.2,491.0,850.0
+430,430,Animal Bar,"Koramangala 1st Block, Bangalore",1000,"American, Continental, Italian, South Indian, North Indian, Asian, Chinese",0.0,0.0,500.0
+431,431,B Town Barbeque,"Rajarajeshwari Nagar, Bangalore",1700,"BBQ, South Indian, Chinese, Salad, Desserts",4.0,0.0,850.0
+432,432,Olio - The Wood Fired Pizzeria,"Koramangala 5th Block, Bangalore",600,"Pizza, Italian, Fast Food, Beverages",4.0,0.0,300.0
+433,433,Glass – Kitchen & Bar,"Holiday Inn, Race Course Road, Bangalore., Bangalore",3500,"Modern Indian, North Indian, Continental, Biryani, Bar Food, Seafood, Desserts, Beverages",4.6,3.0,1750.0
+434,434,Publik,"Bellandur, Bangalore",1400,"North Indian, Kebab, Chinese, Continental, Mughlai, Seafood, Bar Food, Beverages",4.2,96.0,700.0
+435,435,Kerbside Bistro,"Sadashiv Nagar, Bangalore",900,"Cafe, Continental, Italian, American, Fast Food, Desserts, Beverages",4.2,0.0,450.0
+436,436,Lot Like Crepes & Cafe,"Whitefield, Bangalore",700,"American, Italian, Burger, Fast Food",3.8,388.0,350.0
+437,437,OYA Urban Cafe,"Frazer Town, Bangalore",950,"Sandwich, Wraps, Pasta, Fast Food, Momos, Tea, Beverages",3.7,184.0,475.0
+438,438,Kava - Fairfield By Marriott,"Fairfield by Marriott,Rajajinagar , Bangalore",3000,"North Indian, South Indian, Continental",3.7,88.0,1500.0
+439,439,Arogya Ahaara,"HSR, Bangalore",100,South Indian,4.7,8919.0,50.0
+440,440,Chin Lung Resto Bar,"Koramangala 4th Block, Bangalore",1400,"Bar Food, Chinese, North Indian",4.1,415.0,700.0
+441,441,Bathinda Junction,"Koramangala 7th Block, Bangalore",950,"North Indian, Kebab, Street Food, Desserts, Beverages",3.8,12900.0,475.0
+442,442,Kanti Sweets,"Sarjapur Road, Bangalore",450,"Mithai, Desserts, Street Food",3.6,2017.0,225.0
+443,443,Dhanyam Cafe,"Jayanagar, Bangalore",100,"South Indian, Beverages",0.0,2.0,50.0
+444,444,The Kabab Studio - Goldfinch Hotel,"Goldfinch Hotel, Seshadripuram, Bangalore",2100,"North Indian, Chinese, Continental, South Indian, Oriental, Italian, Kebab",4.1,12.0,1050.0
+445,445,Watson's,"Indiranagar, Bangalore",1600,"North Indian, Continental, Italian, European, Asian, Beverages, Desserts",4.0,46.0,800.0
+446,446,Secret Spot Cafe,"Jayanagar, Bangalore",700,"Cafe, Coffee, Sandwich, Burger, Italian, Fast Food, Desserts, Beverages",4.0,22.0,350.0
+447,447,Chai Fast,"Koramangala 1st Block, Bangalore",300,"Tea, Shake, Beverages, Sandwich, Rolls, Fast Food, North Indian, Street Food",4.0,233.0,150.0
+448,448,LOFT38,"Indiranagar, Bangalore",2000,"Italian, BBQ, Asian, North Indian, Fast Food, Beverages",4.2,11.0,1000.0
+449,449,The Big Barn,"Kanakapura Road, Bangalore",1000,"South Indian, North Indian, Chinese, Asian, Fast Food, Pasta, Momos, Beverages",4.4,48.0,500.0
+450,450,Mahe Global Kitchen,"Koramangala 5th Block, Bangalore",1400,"North Indian, Continental, Asian, Pizza, Chinese, Desserts, Shake, Beverages",0.0,3.0,700.0
+451,451,Travellers Bungalow,"Indiranagar, Bangalore",1400,"Middle Eastern, European, Pizza, Finger Food, Desserts, Beverages",4.3,165.0,700.0
+452,452,Tiddly Tavern Bar & Grill,"Ascendas Park Square, Whitefield, Bangalore",1000,"South Indian, North Indian, Continental, Pizza, Asian, Chinese, Seafood",4.2,7.0,500.0
+453,453,Blue Butterfly Bar & Kitchen,"Bommasandra, Bangalore",2000,"Asian, Continental",4.2,0.0,1000.0
+454,454,Jain Sweets And Savories,"Whitefield, Bangalore",150,"Mithai, Street Food",3.7,535.0,75.0
+455,455,Temple Of The Senses,"Church Street, Bangalore",600,"Shake, Beverages, Healthy Food",3.9,138.0,300.0
+456,456,The Biere Club,"Lavelle Road, Bangalore",2600,"Bar Food, Continental, Italian, Wraps, Salad, Middle Eastern, Pizza",4.2,29.0,1300.0
+457,457,Neer,"Embassy Manyata Business Park,  Nagawara , Bangalore",3000,"Bar Food, Beverages, South Indian",4.0,0.0,1500.0
+458,458,Dolci Desserts,"Cunningham Road, Bangalore",850,"Desserts, Bakery, Pasta",4.3,900.0,425.0
+459,459,Tiger Trail - Royal Orchid Hotel,"Royal Orchid Hotel,  Old Airport Road, Bangalore",2200,"North Indian, Mughlai, Desserts, Beverages",4.3,221.0,1100.0
+460,460,Tree Tops Bar & Kitchen,"Hotel Southern Star, Lavelle Road, Bangalore",1300,"Finger Food, North Indian, Chinese, Burger, Seafood, Desserts",4.2,16.0,650.0
+461,461,Hoppipola,"Church Street, Bangalore",2000,"Continental, Italian, Chinese, North Indian, Pizza, Beverages",4.1,126.0,1000.0
+462,462,Board 4 Bored,"Basavanagudi, Bangalore",1000,"Chinese, Sandwich, Continental, Italian, Beverages, Pizza, Pasta",4.1,106.0,500.0
+463,463,Bake Stir Fry Cafe,"Whitefield, Bangalore",400,"Fast Food, Chinese, Beverages",3.9,12.0,200.0
+464,464,South Ruchis Square,"Race Course Road, Bangalore",700,"South Indian, North Indian, Chinese, Fast Food, Ice Cream, Desserts, Shake, Beverages",4.2,1885.0,350.0
+465,465,Casa Fresco By Tea Brew,"HSR, Bangalore",950,"American, Italian, Pasta, Steak, Chinese, Momos, Bubble Tea, Beverages",4.0,763.0,475.0
+466,466,"The Lantern Restaurant & Bar - The Ritz-Carlton, Bangalore","The Ritz-Carlton, Bangalore",4500,"Chinese, Momos",4.2,16.0,2250.0
+467,467,Saffron,"Radisson Blu, Marathahalli, Bangalore",2500,"North Indian, Biryani, Mughlai, Desserts",4.6,69.0,1250.0
+468,468,Jalebbi Kitchen & Bar,"Cunningham Road, Bangalore",1400,"North Indian, Biryani, Desserts",4.4,26.0,700.0
+469,469,Copper Chimney,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1700,"North Indian, Mughlai, Biryani, Kebab, Beverages",4.3,69.0,850.0
+470,470,Drunken Daddy,"Koramangala 5th Block, Bangalore",1400,"North Indian, Continental, Fast Food, Oriental, Finger Food, Biryani, Beverages",4.3,10.0,700.0
+471,471,Chulha Chauki Da Dhaba,"Sarjapur Road, Bangalore",1000,"North Indian, Chinese, Kebab, Mughlai, Biryani, Beverages",4.3,4333.0,500.0
+472,472,Terra Bites,"Koramangala 4th Block, Bangalore",1300,"Cafe, Coffee, Beverages, Continental, Italian, Salad, Asian, Desserts",4.2,307.0,650.0
+473,473,1 BHK - Bar House Kitchen,"Koramangala 6th Block, Bangalore",1400,"Continental, Italian, Pizza, Sandwich, Desserts, Shake, Beverages",4.3,79.0,700.0
+474,474,Suzy Q,"Cunningham Road, Bangalore",2300,"North Indian, Seafood, Continental, Asian, Chinese, Desserts, Beverages",4.3,243.0,1150.0
+475,475,PizzaExpress,"Indiranagar, Bangalore",1400,"Pizza, Pasta, Italian, Salad, Fast Food, Desserts, Coffee, Beverages",4.0,55.0,700.0
+476,476,Nando's,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1500,"Burger, Healthy Food, Portuguese",4.4,4592.0,750.0
+477,477,Itasian,"Jakkur, Bangalore",1000,"Italian, Asian, Chinese, Sushi, Burger, Fast Food, Desserts, Beverages",4.3,66.0,500.0
+478,478,Momoz,"BTM, Bangalore",500,"Momos, North Indian, Chinese, Seafood, Shake, Beverages",3.8,0.0,250.0
+479,479,LOKA - Greenpark Hotels,"Bannerghatta Road, Bangalore",1800,"South Indian, North Indian, Chinese, Fast Food, Asian, Desserts, Beverages",4.1,8.0,900.0
+480,480,Sanchez,"UB City, Bangalore",2500,"Mexican, Beverages",4.0,366.0,1250.0
+481,481,Just Loaf,"Koramangala 3rd Block, Bangalore",1000,"Burger, Fast Food, Bakery, Desserts",0.0,0.0,500.0
+482,482,Nasi And Mee,"Koramangala 4th Block, Bangalore",1600,"Asian, Sushi, Thai",4.5,2267.0,800.0
+483,483,Kebapci,"Koramangala 6th Block, Bangalore",1600,"BBQ, Turkish, Kebab, Lebanese, Desserts",4.2,2887.0,800.0
+484,484,Boba Bhai,"Electronic City, Bangalore",700,"Bubble Tea, Burger, Beverages, Tea, Fast Food, Street Food, Momos, Shake",3.7,1033.0,350.0
+485,485,Be Bhukkad,"Nagawara, Bangalore",400,"North Indian, Biryani",3.9,124.0,200.0
+486,486,Zodiac - Fortune Select JP Cosmos Hotel,"Fortune Select JP Cosmos Hotel, Bangalore",2000,"South Indian, North Indian, Oriental, Continental, Salad, Biryani, Desserts, Beverages",3.5,3.0,1000.0
+487,487,CEVI,"HSR, Bangalore",1500,"North Indian, Biryani, Seafood, Beverages, Desserts",4.5,13.0,750.0
+488,488,Platform.65,"Bannerghatta Road, Bangalore",1300,"Andhra, North Indian, Mughlai, Chinese, Biryani, Ice Cream, Desserts, Beverages",3.6,440.0,650.0
+489,489,Cremeux Pizza & Bakery Cafe,"Jayanagar, Bangalore",300,"Pizza, Bakery, Cafe, Sandwich, Beverages, Burger",0.0,161.0,150.0
+490,490,Snack's Shack,"Whitefield, Bangalore",200,"Street Food, North Indian",3.7,299.0,100.0
+491,491,Dum Pukht Jolly Nabobs - ITC Windsor,"ITC Windsor, Bangalore",6000,"North Indian, Awadhi",4.7,0.0,3000.0
+492,492,Coastal Machali Co.,"Residency Road, Bangalore",1300,"North Indian, Mangalorean, Seafood",4.3,631.0,650.0
+493,493,Taiki,"JP Nagar, Bangalore",700,"Korean, Japanese, Sushi, Salad, Desserts, Tea, Beverages",4.0,7.0,350.0
+494,494,Brahmin's Coffee Bar,"Basavanagudi, Bangalore",100,South Indian,4.7,1217.0,50.0
+495,495,Alchemy,"The Chancery Pavilion, Residency Road, Bangalore",2500,"Bar Food, North Indian, Seafood, Biryani, Desserts, Beverages",4.3,0.0,1250.0
+496,496,The Dome Cafe,"Sarjapur Road, Bangalore",1600,"North Indian, Chinese, Continental, Burger, Desserts, Shake, Beverages",4.4,81.0,800.0
+497,497,Neon Market,"Indiranagar, Bangalore",1000,"Cafe, Coffee, Japanese, Tea, Beverages",0.0,1.0,500.0
+498,498,Tutto Bene - Health Cafe by Little Italy,"Indiranagar, Bangalore",900,"Cafe, Coffee, Beverages, Shake, Panini, Italian, Desserts",3.4,29.0,450.0
+499,499,Smoke House Pizzeria,"Forum Shantiniketan Mall, Whitefield, Bangalore",1500,"Pizza, Pasta, Salad, Italian, Burger, Desserts, Juices, Beverages",4.4,3134.0,750.0
+500,500,Pasta Street,"Prestige Shantiniketan, Bangalore",1800,"Pasta, Pizza, Italian, Salad, Desserts, Beverages",4.7,3777.0,900.0
+501,501,Chowman,"Brookefield, Bangalore",1400,"Chinese, Asian, Thai, Seafood, Sichuan, Desserts, Beverages",4.3,13600.0,700.0
+502,502,The Coffee Brewery,"KR Puram, Bangalore",800,"Cafe, Coffee, Sandwich, Fast Food, Desserts, Tea, Beverages",4.3,944.0,400.0
+503,503,Smoor,"Whitefield, Bangalore",600,"Bakery, Desserts, Beverages",4.3,3488.0,300.0
+504,504,Dot.yum - Aloft Hotel,"Aloft Hotel, Whitefield, Bangalore",2500,"Continental, Oriental, North Indian, Desserts, Beverages",3.7,11.0,1250.0
+505,505,Whitefield Baking Company - Bengaluru Marriott Hotel Whitefield,"Bengaluru Marriott Hotel Whitefield, Bangalore",1500,"Bakery, American, North Indian, South Indian, Salad",4.0,43.0,750.0
+506,506,The Sandwich Station,"Whitefield, Bangalore",400,"Sandwich, Burger, Fast Food, Rolls, Beverages, Shake",4.0,4837.0,200.0
+507,507,De Royale Spice,"KR Puram, Bangalore",600,"Chinese, Biryani, North Indian, Kebab, South Indian, Mughlai",3.2,5.0,300.0
+508,508,The Filter Coffee,"Brookefield, Bangalore",500,"South Indian, Coffee, Beverages, Street Food, Desserts",4.7,6004.0,250.0
+509,509,Haldiram's Restaurant,"Brookefield, Bangalore",400,"Mithai, South Indian, North Indian, Sandwich, Street Food, Biryani, Beverages",3.3,251.0,200.0
+510,510,Srinidhi Signature,"ITPL Main Road, Whitefield, Bangalore",1400,"South Indian, North Indian, Chinese, Desserts, Beverages",4.2,3384.0,700.0
+511,511,Third Wave Coffee,"Brookefield, Bangalore",700,"Cafe, Coffee, Sandwich, Pizza, Fast Food, Tea, Beverages",3.9,964.0,350.0
+512,512,Kalinga Spices,"Brookefield, Bangalore",300,"North Indian, Odia, Chinese",4.4,6302.0,150.0
+513,513,Paper And Pie Cafe,"ITPL Main Road, Whitefield, Bangalore",1200,"Cafe, Italian, Continental, Desserts, Beverages, Shake",3.8,0.0,600.0
+514,514,Pakodee’s,"Whitefield, Bangalore",200,Street Food,3.6,154.0,100.0
+515,515,The Eatery - Four Points By Sheraton Bengaluru,"Four Points by Sheraton Bengaluru Whitefield, Bangalore",2000,"North Indian, Chinese, Continental, Fast Food",4.1,202.0,1000.0
+516,516,The Rameshwaram Cafe,"Brookefield, Bangalore",200,"South Indian, Beverages",3.0,989.0,100.0
+517,517,Samosa Party,"Brookefield, Bangalore",200,"Street Food, Tea, North Indian, Beverages, Mithai, Desserts",3.3,875.0,100.0
+518,518,Biryani Pub,"Marathahalli, Bangalore",150,Biryani,3.9,34.0,75.0
+519,519,Zodiac,"Fortune Select Trinity, Whitefield, Bangalore",1800,"South Indian, North Indian, Mughlai, Chinese, Fast Food, Biryani",3.3,2.0,900.0
+520,520,Karibu - The Zuri,"The Zuri Hotels, Bangalore",3300,"South Indian, North Indian, Continental, Oriental, Italian, Sandwich, Burger, Wraps",3.6,0.0,1650.0
+521,521,Brunchilly - Sarovar Portico,"Marathahalli, Bangalore",1600,"North Indian, Biryani, Fast Food",4.0,17.0,800.0
+522,522,Juice N Bites,"Whitefield, Bangalore",300,"Shake, Juices, Beverages, Street Food, Fast Food, Burger",3.9,162.0,150.0
+523,523,Grill On Hot & Cool Cafe,"Marathahalli, Bangalore",200,"Burger, Shawarma, Sandwich, Fast Food, Juices, Shake, Beverages",3.5,9.0,100.0
+524,524,Asha Tiffins,"Brookefield, Bangalore",200,South Indian,4.2,26700.0,100.0
+525,525,Vijayawada Tiffins,"Brookefield, Bangalore",800,"South Indian, North Indian, Chinese, Street Food",3.6,481.0,400.0
+526,526,Pinds Of Punjab,"KR Puram, Bangalore",250,"North Indian, Fast Food",3.9,4465.0,125.0
+527,527,Kava Kitchen & Bar - Fairfield by Marriott,"Whitefield, Bangalore",2500,"North Indian, Continental, Salad, Mughlai, Fast Food, Beverages",3.8,74.0,1250.0
+528,528,Aruki Kitchen,"Whitefield, Bangalore",200,"South Indian, Street Food, Tea, Beverages",3.9,15.0,100.0
+529,529,Hard Rock Cafe,"Ascendas Park Square, Whitefield, Bangalore",2000,"Salad, American, Sandwich, Burger, Wraps, Fast Food, Desserts, Beverages",4.5,389.0,1000.0
+530,530,Khane Ka Khazana,"Brookefield, Bangalore",300,"North Indian, Rolls, Fast Food",3.5,2980.0,150.0
+531,531,Brilram's Balaji Bhavan,"Whitefield, Bangalore",600,"South Indian, North Indian, Chinese, Kebab, Biryani, Shake, Juices, Beverages",3.7,15700.0,300.0
+532,532,The Mill -  Artisanal Bakery,"Whitefield, Bangalore",450,"Bakery, Desserts",3.7,139.0,225.0
+533,533,Chaayos Chai+Snacks=Relax,"Ascendas Park Square, Whitefield, Bangalore",350,"Tea, Beverages, Sandwich, Street Food",3.6,3870.0,175.0
+534,534,Mega Bite,"MGM Mark Whitefield, Bangalore",1600,"North Indian, Chinese, South Indian, Continental, Salad, Desserts, Beverages",3.3,0.0,800.0
+535,535,Mansaf Paradise,"Marathahalli, Bangalore",400,"South Indian, Street Food, Beverages",0.0,41.0,200.0
+536,536,No Sugar Please!,"Brookefield, Bangalore",250,"Juices, Shake, Beverages, Healthy Food, Salad",4.1,1004.0,125.0
+537,537,Cafe Mumbai,"ITPL Main Road, Whitefield, Bangalore",200,"Maharashtrian, Street Food",3.7,3196.0,100.0
+538,538,Kapoor's Cafe,"KR Puram, Bangalore",1000,"North Indian, Fast Food, Street Food, Desserts",4.0,1913.0,500.0
+539,539,Whitefield SOCIAL,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1600,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Desserts, Beverages",4.2,2254.0,800.0
+540,540,Lavonne,"Forum Shantiniketan Mall, Whitefield, Bangalore",1300,"Cafe, Tea, Beverages, Bakery, Continental, Pasta, Salad, Fast Food",4.1,936.0,650.0
+541,541,Subway,"KR Puram, Bangalore",600,"Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",3.0,1073.0,300.0
+542,542,Flavours Radha Hometel,"Radha Hometel, Bangalore",1800,"North Indian, Continental, Chinese, Desserts, Beverages",3.3,116.0,900.0
+543,543,Poha On Wheels,"Marathahalli, Bangalore",100,Street Food,3.9,2457.0,50.0
+544,544,Blue Tokai Coffee Roasters,"VR Bengaluru, Whitefield, Bangalore",600,"Cafe, Coffee, Healthy Food, Beverages, Desserts, American, Sandwich",4.4,717.0,300.0
+545,545,Thirupathi Bhimas,"Marathahalli, Bangalore",1000,"South Indian, Chinese",3.6,636.0,500.0
+546,546,McDonald's,"Brookefield, Bangalore",400,"Fast Food, Burger, Desserts, Beverages",3.1,24900.0,200.0
+547,547,Leon's Burgers & Wings,"Whitefield, Bangalore",400,"Burger, Fast Food, Wraps",4.0,24800.0,200.0
+548,548,Alibabar Hari,"Whitefield, Bangalore",300,"Biryani, Mughlai",3.8,112.0,150.0
+549,549,Purnabramha Maharashtrian Restaurant,"Brigade Metropolis, Bangalore",950,"Maharashtrian, Desserts, Beverages",3.5,374.0,475.0
+550,550,Starbucks Coffee,"Whitefield, Bangalore",600,"Cafe, Coffee, Desserts, Beverages",4.2,2392.0,300.0
+551,551,MYNT,"Vivanta Whitefield, Bangalore",3500,"North Indian, Fast Food, Mexican, Italian, Healthy Food, Thai, Desserts, Beverages",4.2,5.0,1750.0
+552,552,Masala Chai,"Whitefield, Bangalore",250,"Beverages, Fast Food, Tea",4.2,572.0,125.0
+553,553,Theobroma,"Whitefield, Bangalore",500,"Bakery, Desserts, Fast Food, Beverages",3.3,1916.0,250.0
+554,554,Hotel Nattinpuram,"Marathahalli, Bangalore",300,"Kerala, Street Food",3.9,1277.0,150.0
+555,555,Udupi Veg,"Whitefield, Bangalore",300,"South Indian, Chinese",3.4,1277.0,150.0
+556,556,Sri Chowdeshwari Mudde Hotel,"Whitefield, Bangalore",350,South Indian,3.9,0.0,175.0
+557,557,Munisai Teja Nellore Tiffins,"Marathahalli, Bangalore",100,South Indian,3.5,215.0,50.0
+558,558,Manorama Food Corner,"Marathahalli, Bangalore",300,"South Indian, Pizza, Sandwich, Street Food",0.0,12.0,150.0
+559,559,Sri Guru Nalapaka Restaurant,"Whitefield, Bangalore",650,"South Indian, North Indian, Chinese, Biryani, Mithai",3.4,908.0,325.0
+560,560,Charubon's Restaurant,"Varthur Main Road, Whitefield, Bangalore",1000,"North Indian, Bengali",3.2,358.0,500.0
+561,561,HRX by EatFit,"Brookefield, Bangalore",500,"Healthy Food, Salad, Mexican, Pasta, Pizza, Beverages, Asian, North Indian",0.0,0.0,250.0
+562,562,Kapoor's Chaat Bhandaar,"Varthur Main Road, Whitefield, Bangalore",500,"Street Food, Desserts, Beverages",3.7,420.0,250.0
+563,563,Juice Berg,"Brookefield, Bangalore",300,"Beverages, Juices, Shake, Chinese, Sandwich, Fast Food, Street Food",3.5,13700.0,150.0
+564,564,Pulla Reddy Sweets,"Whitefield, Bangalore",400,"Mithai, Desserts",3.3,0.0,200.0
+565,565,Khawar Ashe Pashe,"KR Puram, Bangalore",500,"Bengali, North Indian, Chinese, Fast Food, Rolls",3.9,2098.0,250.0
+566,566,Aditya Sweets,"Whitefield, Bangalore",200,"Mithai, Street Food",3.6,4696.0,100.0
+567,567,The Groot,"Forum Shantiniketan Mall, Whitefield, Bangalore",2000,"Continental, Italian, North Indian, South Indian, Seafood, Desserts, Juices, Beverages",4.1,429.0,1000.0
+568,568,Baskin Robbins - Ice Cream Desserts,"Marathahalli, Bangalore",500,"Ice Cream, Desserts, Shake, Bakery",3.2,2388.0,250.0
+569,569,Amma's Pastries,"KR Puram, Bangalore",300,"Bakery, Desserts",2.9,2750.0,150.0
+570,570,Subbayyaa Gari Hotel,"Brookefield, Bangalore",500,"Andhra, South Indian, Desserts, Mithai",2.5,5417.0,250.0
+571,571,Boba Bhai,"Brookefield, Bangalore",300,"Bubble Tea, Burger, Beverages, Tea, Fast Food, Street Food, Momos, Shake",0.0,559.0,150.0
+572,572,Natraj Chole Bhature,"Brookefield, Bangalore",300,"North Indian, Street Food, Desserts",3.2,5149.0,150.0
+573,573,Mayura Sagar,"Brookefield, Bangalore",400,"Chinese, North Indian, South Indian, Beverages, Ice Cream, Shake",3.7,2515.0,200.0
+574,574,Hatti Kaapi,"Marathahalli, Bangalore",200,"Coffee, Shake, Beverages",0.0,13.0,100.0
+575,575,Juice Therapy,"Brookefield, Bangalore",300,"Juices, Salad",0.0,67.0,150.0
+576,576,Sri Udupi Food Hub,"ITPL Main Road, Whitefield, Bangalore",450,"South Indian, North Indian, Chinese, Biryani, Sandwich, Street Food, Ice Cream, Beverages",0.0,1290.0,225.0
+577,577,Suryawanshi,"KR Puram, Bangalore",1000,"North Indian, Maharashtrian, Malwani, Street Food, Mughlai, Seafood, Desserts, Beverages",4.0,6289.0,500.0
+578,578,Kallayi Restaurant,"KR Puram, Bangalore",400,"Kerala, Chinese, Mangalorean, Seafood, Desserts, Beverages",4.0,3991.0,200.0
+579,579,Hoskote Nati Style,"Brookefield, Bangalore",400,"South Indian, Chinese",0.0,0.0,200.0
+580,580,Om Agarwal Bhavan,"Brookefield, Bangalore",400,"Mithai, Desserts, North Indian, Street Food",0.0,760.0,200.0
+581,581,Mirzapur UP63,"Marathahalli, Bangalore",350,"North Indian, Chinese, Kebab, Sandwich, Burger, Street Food, Desserts, Beverages",0.0,178.0,175.0
+582,582,Puchkas,"Marathahalli, Bangalore",200,"Street Food, North Indian, Fast Food",4.0,27700.0,100.0
+583,583,1882,"DoubleTree by Hilton, Whitefield, Bengaluru, Bangalore",2000,"Continental, Asian, North Indian, Modern Indian",0.0,0.0,1000.0
+584,584,The Coffee House,"ITPL Main Road, Whitefield, Bangalore",600,"Cafe, North Indian, Fast Food, South Indian, Street Food, Beverages, Desserts",4.0,683.0,300.0
+585,585,Litti Mania,"Brookefield, Bangalore",250,"North Indian, Street Food",0.0,133.0,125.0
+586,586,Udupi Upachar,"Brookefield, Bangalore",350,"South Indian, North Indian, Street Food, Chinese, Beverages, Shake, Ice Cream",4.1,18200.0,175.0
+587,587,Chef Bakers,"Whitefield, Bangalore",350,"Bakery, Desserts",0.0,14.0,175.0
+588,588,Amal’s Biriyani,"Varthur Main Road, Whitefield, Bangalore",200,"South Indian, Biryani, North Indian, Street Food",0.0,197.0,100.0
+589,589,Hatti Kaapi - Coffee And More,"Forum Shantiniketan Mall, Whitefield, Bangalore",300,"Coffee, Beverages, Fast Food, Street Food",0.0,9.0,150.0
+590,590,Cafe Garage,"Whitefield, Bangalore",500,"Juices, Shake, South Indian, Sandwich, Ice Cream, Desserts",0.0,25.0,250.0
+591,591,RARA'S - SWEETS-CHAATS-THALIS,"Brookefield, Bangalore",400,"North Indian, Street Food, Burger, Pizza, Sandwich, Fast Food, Shake, Juices",0.0,76.0,200.0
+592,592,Simhapuri - The Taste Of Nellore,"Varthur Main Road, Whitefield, Bangalore",350,"South Indian, Biryani",0.0,55.0,175.0
+593,593,Real Fresh Dosa Corner,"Brookefield, Bangalore",250,South Indian,4.5,8548.0,125.0
+594,594,Karma Foods,"Brookefield, Bangalore",150,"North Indian, Chinese, Momos",4.3,0.0,75.0
+595,595,Sai Foods,"Brookefield, Bangalore",400,"North Indian, Chinese, Street Food, Beverages, Desserts",4.5,1659.0,200.0
+596,596,New Udupi Garden Veg,"KR Puram, Bangalore",450,"South Indian, North Indian, Chinese, Biryani, Street Food, Desserts, Juices, Beverages",0.0,224.0,225.0
+597,597,Ramdev Sagar,"Brookefield, Bangalore",500,"South Indian, Chinese, Street Food, North Indian, Biryani, Ice Cream, Beverages, Shake",4.2,11900.0,250.0
+598,598,Citrus Cafe - Lemon Tree Hotel,"Lemon Tree Hotel, Whitefield, Bangalore",2500,"North Indian, Continental, South Indian, Asian, Italian, Desserts",3.5,0.0,1250.0
+599,599,The Cafe Dhaba,"KR Puram, Bangalore",500,"North Indian, Street Food, Beverages",0.0,299.0,250.0
+600,600,Thalassery Restaurant,"Marathahalli, Bangalore",850,"Kerala, Seafood, North Indian, Chinese, Biryani",3.4,18100.0,425.0
+601,601,Sri Lakshmi Vaibhav,"Marathahalli, Bangalore",600,"South Indian, North Indian, Chinese, Street Food, Beverages, Desserts",4.1,10600.0,300.0
+602,602,Mivaan's Café,"Brookefield, Bangalore",300,"South Indian, North Indian, Chinese",0.0,0.0,150.0
+603,603,Zoop Cafe,"Marathahalli, Bangalore",400,"Sandwich, Rolls, Pizza, Fast Food, Street Food, Shake, Juices, Beverages",0.0,10.0,200.0
+604,604,Hotel Abooz- Eat 'N' Meet Restaurant,"Whitefield, Bangalore",850,"Andhra, Seafood, North Indian, Kerala, Chinese, Arabian, Desserts, Beverages",3.8,1616.0,425.0
+605,605,Just Bake,"Brookefield, Bangalore",450,"Bakery, Desserts",3.4,20.0,225.0
+606,606,Vidhagdha Cafe,"Whitefield, Bangalore",450,"South Indian, North Indian, Street Food, Tea, Juices, Shake, Desserts",0.0,4.0,225.0
+607,607,Muraamba - The Marathi Kitchen,"Marathahalli, Bangalore",200,"Maharashtrian, North Indian",2.8,423.0,100.0
+608,608,Peruvayaran Restaurant,"Whitefield, Bangalore",350,"South Indian, Beverages",0.0,4.0,175.0
+609,609,Burger King,"Kote MR Plaza, Bangalore",400,"Burger, Fast Food, Desserts, Beverages",3.8,15700.0,200.0
+610,610,Brindavan Grand,"Varthur Main Road, Whitefield, Bangalore",950,"North Indian, South Indian, Chinese, Street Food, Biryani, Ice Cream, Shake, Beverages",4.2,1767.0,475.0
+611,611,Kanti Sweets,"Whitefield, Bangalore",450,"Mithai, Desserts, Street Food",4.1,8346.0,225.0
+612,612,Tea Day,"Mahadevapura, Bangalore",300,"Tea, Shake, Coffee, Beverages",0.0,9.0,150.0
+613,613,Gilly's Restobar,"Marathahalli, Bangalore",1900,"Seafood, North Indian, Pizza, Burger, Oriental, Italian, Fast Food",4.1,62.0,950.0
+614,614,Meganas Biryani,"Brookefield, Bangalore",500,"Biryani, Rolls, Fast Food, Beverages, Chinese, Sichuan",2.5,232.0,250.0
+615,615,Ashraya Upachar,"KR Puram, Bangalore",450,"South Indian, North Indian, Chinese, Street Food, Beverages",3.8,39600.0,225.0
+616,616,Shree KC Mess,"Varthur Main Road, Whitefield, Bangalore",300,South Indian,3.9,97.0,150.0
+617,617,Angel's Kitchen,"Whitefield, Bangalore",200,"Kerala, South Indian",3.9,4594.0,100.0
+618,618,Chill,"Radha Hometel, Bangalore",2000,"North Indian, Chinese, Continental",4.1,0.0,1000.0
+619,619,Sri Vishnu Palace,"Marathahalli, Bangalore",850,"North Indian, South Indian, Chinese, Ice Cream, Shake",3.1,1669.0,425.0
+620,620,Ghaas Phoos 1.0,"Brookefield, Bangalore",400,"North Indian, Fast Food, Street Food, Desserts, Beverages",4.0,45.0,200.0
+621,621,Udupi Vaibhav,"KR Puram, Bangalore",500,"North Indian, South Indian, Chinese, Street Food, Ice Cream, Beverages",3.9,5031.0,250.0
+622,622,Anand Sweets And Savouries,"MS Commercials Complex, Bangalore",300,"Mithai, North Indian, Fast Food, Street Food",3.3,1261.0,150.0
+623,623,Kidilum,"Whitefield, Bangalore",350,"Kerala, Chinese, North Indian",3.8,11300.0,175.0
+624,624,Karavali Kitchen,"Marathahalli, Bangalore",400,"North Indian, Biryani, Chinese, Sichuan",3.8,1923.0,200.0
+625,625,Pop Inn Restaurant,"Whitefield, Bangalore",250,"North Indian, Odia, Bengali, Chinese, South Indian",3.9,1370.0,125.0
+626,626,Estaa Sweets,"Broadway Building, Whitefield, Bangalore",300,"Mithai, Street Food, Desserts",3.4,3580.0,150.0
+627,627,Foodies Hub,"Marathahalli, Bangalore",500,"North Indian, Biryani, Chinese, Sichuan",4.0,815.0,250.0
+628,628,Tea Positive,"Marathahalli, Bangalore",400,"Street Food, Fast Food, Tea, Beverages",4.0,245.0,200.0
+629,629,Sri Udupi Park,"Whitefield, Bangalore",600,"South Indian, North Indian, Chinese, Street Food, Ice Cream, Beverages",3.6,5665.0,300.0
+630,630,New Udupi Garden,"Marathahalli, Bangalore",1000,"South Indian, North Indian, Chinese, Salad, Biryani, Ice Cream, Shake, Beverages",3.9,2611.0,500.0
+631,631,BBQ Joint,"Whitefield, Bangalore",300,"BBQ, Fast Food, Chinese, Burger, Sandwich, Beverages",3.7,1.0,150.0
+632,632,The Lassi Corner,"Whitefield, Bangalore",300,"Beverages, Juices, Shake, Desserts, Ice Cream, Sandwich, Street Food",3.9,1120.0,150.0
+633,633,Annapoorna Andhra Spices,"Brookefield, Bangalore",350,"Andhra, Biryani, North Indian, Chinese",3.9,659.0,175.0
+634,634,K R Catering Services,"Whitefield, Bangalore",300,"South Indian, Rolls, Biryani, Beverages, Shake",3.9,79.0,150.0
+635,635,Tiwari's Cafe,"Whitefield, Bangalore",350,"North Indian, Street Food, Fast Food, Beverages, Shake",3.9,273.0,175.0
+636,636,NH-47 Kerala Kitchen,"Marathahalli, Bangalore",300,"Kerala, Biryani",3.8,1538.0,150.0
+637,637,Citrus Cafe,"Whitefield, Bangalore",1200,"North Indian, Asian, Chinese, Fast Food, Continental, Seafood, Desserts, Beverages",3.6,6.0,600.0
+638,638,Fresh Cafe,"Marathahalli, Bangalore",250,"Chinese, Fast Food, Desserts, Beverages, Juices",3.9,758.0,125.0
+639,639,Chellam Hotel,"KR Puram, Bangalore",200,South Indian,3.9,870.0,100.0
+640,640,Nevesa Bites,"Marathahalli, Bangalore",400,"North Indian, South Indian, Chinese, Biryani, Fast Food, Street Food, Mughlai, Beverages",3.9,883.0,200.0
+641,641,Kaafi Desi,"Marathahalli, Bangalore",300,"North Indian, Fast Food, Chinese, Mithai",4.0,30600.0,150.0
+642,642,Chai Point,"Brookefield, Bangalore",400,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",3.8,14400.0,200.0
+643,643,Mrs Iyengar's Kitchen - Authentic Iyengar's Cuisine,"KR Puram, Bangalore",350,"South Indian, Tamil, Desserts",3.5,4591.0,175.0
+644,644,Cothas Coffee,"Whitefield, Bangalore",200,"Beverages, Coffee, Shake, Street Food",0.0,1.0,100.0
+645,645,FB Cakes,"Marathahalli, Bangalore",300,Bakery,0.0,907.0,150.0
+646,646,Keventers Ice Cream,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",300,"Ice Cream, Desserts",0.0,209.0,150.0
+647,647,Meat And Eat,"Marathahalli, Bangalore",400,"Burger, Sandwich, Fast Food, Wraps, Biryani, Beverages, Desserts",0.0,565.0,200.0
+648,648,Nandi Iyengars Cake Palace,"Marathahalli, Bangalore",400,"Bakery, Desserts, Street Food",3.8,329.0,200.0
+649,649,Sendhoor Coffee,"KR Puram, Bangalore",150,South Indian,3.0,1294.0,75.0
+650,650,Nirvana Foods,"Brookefield, Bangalore",200,"Biryani, Chinese, South Indian",3.6,145.0,100.0
+651,651,Sri Udupi Park,"Whitefield, Bangalore",400,"North Indian, South Indian, Chinese, Street Food, Ice Cream, Beverages, Shake",3.2,6524.0,200.0
+652,652,Hotel Salala,"Brookefield, Bangalore",500,"North Indian, South Indian, Chinese, Mughlai",3.8,1460.0,250.0
+653,653,Kerala Kafe,"Whitefield, Bangalore",250,"Kerala, North Indian",3.7,54.0,125.0
+654,654,Desi Zing,"Marathahalli, Bangalore",400,"North Indian, Chinese, Fast Food",3.9,0.0,200.0
+655,655,Grills N Seeds,"Whitefield, Bangalore",1400,"North Indian, Chinese, Biryani, Mughlai, Rolls, Shawarma, Beverages",3.7,0.0,700.0
+656,656,Srinidhi Sagar,"Whitefield, Bangalore",300,"Chinese, South Indian, North Indian, Biryani",3.4,1031.0,150.0
+657,657,Tasty Food Court- TFC,"Varthur Main Road, Whitefield, Bangalore",500,"Fast Food, Pizza, Beverages, Shake",3.8,86.0,250.0
+658,658,Taste Of Kolkata,"Whitefield, Bangalore",600,"Biryani, Rolls, Bengali",3.0,283.0,300.0
+659,659,Bella House Go Go,"KR Puram, Bangalore",1400,"Continental, Fast Food, Healthy Food, Pancake, Desserts, Beverages",3.9,0.0,700.0
+660,660,New Juice It Up,"Brookefield, Bangalore",200,"Juices, Beverages, Fast Food, Shake",3.6,313.0,100.0
+661,661,Sassy South,"Whitefield, Bangalore",300,"South Indian, Chinese, Street Food, Desserts, Beverages",3.0,3023.0,150.0
+662,662,Dakkhan Bistro,"Whitefield, Bangalore",250,"Fast Food, South Indian, North Indian, Desserts, Beverages",3.8,5.0,125.0
+663,663,Udupi Cafe,"Whitefield, Bangalore",300,"South Indian, Chinese, North Indian, Sichuan",3.3,12000.0,150.0
+664,664,Andhra Turning Point,"Marathahalli, Bangalore",300,"South Indian, Andhra",3.7,64.0,150.0
+665,665,Chai Resto,"Marathahalli, Bangalore",250,"Beverages, Street Food, Fast Food, Tea",3.9,866.0,125.0
+666,666,Food Paradise,"KR Puram, Bangalore",300,"South Indian, Chinese, Asian",3.9,157.0,150.0
+667,667,Food Story,"Brookefield, Bangalore",400,"Biryani, Continental, Street Food, Chinese, South Indian, Desserts, Shake, Sichuan",3.7,267.0,200.0
+668,668,Sargam Sweets,"Marathahalli, Bangalore",200,"Mithai, Street Food",3.5,1057.0,100.0
+669,669,Biriyani Kitchen,"Whitefield, Bangalore",300,"North Indian, Chinese, Sichuan",3.7,21.0,150.0
+670,670,Five Spice Dining,"24 Tech Hotel, Kadubeesanahalli, Bangalore",900,"North Indian, South Indian, Chinese, Biryani, Sandwich, Desserts, Beverages",3.5,6.0,450.0
+671,671,Caramel Whitefield,"Vivanta Whitefield, Bangalore",500,Bakery,3.5,0.0,250.0
+672,672,High Sky,"Whitefield, Bangalore",1200,"North Indian, South Indian, Mughlai, Biryani, Sandwich, Desserts, Beverages",3.5,0.0,600.0
+673,673,KR Naidu Hotel,"Whitefield, Bangalore",200,"Chinese, North Indian, South Indian",3.7,90.0,100.0
+674,674,Mayura Vybhava,"Whitefield, Bangalore",250,"South Indian, North Indian, Chinese, Street Food",3.8,0.0,125.0
+675,675,Mandya Gowdru Hotel,"Brookefield, Bangalore",300,South Indian,3.8,14.0,150.0
+676,676,ATR Foods,"Brookefield, Bangalore",200,South Indian,3.9,8.0,100.0
+677,677,Ishwaryam,"Whitefield, Bangalore",250,"South Indian, Chinese",3.8,0.0,125.0
+678,678,New Udupi Delicacy,"Whitefield, Bangalore",300,"South Indian, North Indian, Chinese, Shake",3.5,7024.0,150.0
+679,679,Arun Ice Cream Parlour,"Marathahalli, Bangalore",100,"Ice Cream, Desserts",3.5,13.0,50.0
+680,680,Kidilum Grand,"Whitefield, Bangalore",500,"Biryani, South Indian",3.5,1193.0,250.0
+681,681,Snacky Zone,"Whitefield, Bangalore",400,"Pizza, Momos, Burger, Chinese",3.6,7.0,200.0
+682,682,Narayanadri Nellore Hotel,"Marathahalli, Bangalore",200,South Indian,3.7,34.0,100.0
+683,683,Romantic Time,"Marathahalli, Bangalore",400,"Shake, Beverages, South Indian, Chinese, Ice Cream, Desserts",3.4,19.0,200.0
+684,684,ChinaMinaMo,"Brookefield, Bangalore",850,"Chinese, Seafood, Juices, Beverages",3.9,1.0,425.0
+685,685,FRIENDS FAST FOODS,"Marathahalli, Bangalore",300,"Fast Food, Biryani",3.8,40.0,150.0
+686,686,Melting Melodies,"Varthur Main Road, Whitefield, Bangalore",400,"Bakery, Desserts",3.9,118.0,200.0
+687,687,Chickles,"Marathahalli, Bangalore",300,"Fast Food, Burger, Sandwich, Ice Cream, Shake, Juices",3.7,117.0,150.0
+688,688,Mayura Grand,"Brookefield, Bangalore",400,"North Indian, South Indian, Chinese, Biryani",3.8,0.0,200.0
+689,689,Food Mingo,"Marathahalli, Bangalore",250,"North Indian, Chinese, Fast Food",3.7,368.0,125.0
+690,690,Risalo Restaurant,"Marathahalli, Bangalore",700,"North Indian, Chinese, Mughlai, Desserts, Beverages",3.8,44.0,350.0
+691,691,The Ghee Spot,"Brookefield, Bangalore",400,North Indian,3.7,2729.0,200.0
+692,692,Chakh Le India,"Brookefield, Bangalore",300,"North Indian, Rolls, Chinese, Street Food",3.4,15500.0,150.0
+693,693,Red Earth Roasters,"KR Puram, Bangalore",350,"Beverages, Coffee, Shake",3.9,10.0,175.0
+694,694,Andhra Abhiruchulu,"Marathahalli, Bangalore",200,"Andhra, South Indian, Chinese, Biryani, Ice Cream",3.6,30.0,100.0
+695,695,Sonu Da Dhaba,"Whitefield, Bangalore",300,"North Indian, Chinese",3.6,20.0,150.0
+696,696,Gopal Dhaba,"Marathahalli, Bangalore",400,North Indian,3.7,0.0,200.0
+697,697,Apna Hotel,"Whitefield, Bangalore",350,"North Indian, Mughlai",3.8,306.0,175.0
+698,698,Bengal Sweet And Restaurant,"Whitefield, Bangalore",350,"Mithai, Chinese, Rolls, Biryani, Fast Food, Street Food, North Indian, Bengali",3.8,680.0,175.0
+699,699,Pooja Hotel & Restaurant,"Whitefield, Bangalore",450,"South Indian, North Indian, Chinese, Biryani",3.5,24.0,225.0
+700,700,Bowl'd,"Marathahalli, Bangalore",300,"North Indian, Chinese",3.9,6.0,150.0
+701,701,Sri Manjunatha Hotel,"Brookefield, Bangalore",200,"North Indian, Chinese",3.7,260.0,100.0
+702,702,Ashirvad Veg,"Marathahalli, Bangalore",300,"South Indian, Chinese, North Indian",3.8,543.0,150.0
+703,703,Sri Kalyan Hotel,"KR Puram, Bangalore",300,"Biryani, South Indian, Chinese",3.9,4.0,150.0
+704,704,Laddoos,"Brookefield, Bangalore",300,"Mithai, North Indian, Street Food",3.2,2100.0,150.0
+705,705,Cocofit,"Marathahalli, Bangalore",300,"Beverages, Desserts",3.6,114.0,150.0
+706,706,Indian Paratha Company,"Forum Neighbourhood Mall, Whitefield, Bangalore",500,"Cafe, Coffee, Beverages, Pizza, Rolls, North Indian, Desserts",2.9,215.0,250.0
+707,707,The Sandwich Juice Shop,"Whitefield, Bangalore",400,"Fast Food, Sandwich, Street Food, Rolls, North Indian, Mughlai, Burger, Beverages",3.6,795.0,200.0
+708,708,Platos,"Marathahalli, Bangalore",400,"North Indian, Chinese, Maharashtrian, Beverages, Sichuan",3.6,7.0,200.0
+709,709,AGS Grand,"Marathahalli, Bangalore",400,"Biryani, South Indian, Chinese, North Indian, Fast Food, Sichuan",3.9,11.0,200.0
+710,710,New Udupi Veg,"Whitefield, Bangalore",300,"North Indian, South Indian, Chinese, Sichuan",3.5,8286.0,150.0
+711,711,Maa Tea,"Marathahalli, Bangalore",350,"Tea, Sandwich, Fast Food, Beverages",3.9,522.0,175.0
+712,712,Indori Junction,"Brookefield, Bangalore",150,Street Food,3.0,839.0,75.0
+713,713,Poori House,"Marathahalli, Bangalore",200,"Chinese, North Indian",3.9,44.0,100.0
+714,714,Sree Venkateshwara Home Made Foods,"Marathahalli, Bangalore",300,"South Indian, North Indian, Chinese",3.6,74.0,150.0
+715,715,Mondelice Cakes,"KR Puram, Bangalore",300,"Bakery, Fast Food",3.7,201.0,150.0
+716,716,Prajwal The Restaurant,"Marathahalli, Bangalore",300,"Chinese, North Indian, Mughlai",3.3,4991.0,150.0
+717,717,New Udupi Upahar,"Marathahalli, Bangalore",300,"South Indian, Street Food, Chinese, Biryani, North Indian",3.4,13800.0,150.0
+718,718,Sri Udupi Park,"KR Puram, Bangalore",500,"South Indian, North Indian, Chinese, Street Food, Ice Cream, Beverages",3.4,1658.0,250.0
+719,719,The Sandwich Adda,"Marathahalli, Bangalore",250,"Sandwich, Burger, Fast Food, Street Food, Shake, Juices",3.8,86.0,125.0
+720,720,Kaveri Vaibhav Pure Veg,"Whitefield, Bangalore",500,"Chinese, Fast Food, North Indian, South Indian, Continental, Street Food",3.7,905.0,250.0
+721,721,Sukoon Chai Cafe,"Marathahalli, Bangalore",200,"Tea, Beverages, Street Food",3.9,3.0,100.0
+722,722,Thalassery Cafe,"Marathahalli, Bangalore",200,Beverages,3.6,44.0,100.0
+723,723,Durgashree Udupi Vihar,"KR Puram, Bangalore",250,"South Indian, North Indian, Chinese, Shake",3.9,0.0,125.0
+724,724,Navras,"Brookefield, Bangalore",300,"Mithai, Street Food, North Indian, Biryani, Beverages",3.4,2172.0,150.0
+725,725,Panda Chai,"Marathahalli, Bangalore",350,"Tea, Shake, Beverages, Sandwich, Street Food, Ice Cream",3.7,459.0,175.0
+726,726,Cafe Coffee Day,"Marathahalli, Bangalore",750,"Cafe, Coffee, Tea, Shake, Beverages, Sandwich, Fast Food, Desserts",3.2,2579.0,375.0
+727,727,Eatwell  Restaurant,"Marathahalli, Bangalore",400,"North Indian, Chinese, Biryani, Beverages",3.2,7247.0,200.0
+728,728,Hangout Junction,"Sigma Soft Tech Park, Bangalore",400,"North Indian, Chinese, South Indian",3.5,93.0,200.0
+729,729,Salem Kitchen,"Brookefield, Bangalore",500,"Chettinad, Chinese, South Indian, Mughlai, Biryani, Sichuan",3.2,291.0,250.0
+730,730,Nirvana Restaurant,"Marathahalli, Bangalore",400,"North Indian, Chinese, Kebab, Biryani, Rolls",3.3,54.0,200.0
+731,731,Kerala Cafe,"Marathahalli, Bangalore",100,"Kerala, Beverages",3.3,0.0,50.0
+732,732,Slurpy Shakes,"Whitefield, Bangalore",500,"Shake, Ice Cream, Desserts, Fast Food, Beverages",3.2,1393.0,250.0
+733,733,NH 75,"Whitefield, Bangalore",850,"North Indian, Mughlai, Chinese, Biryani",3.0,0.0,425.0
+734,734,Jhanavi Restaurant,"Marathahalli, Bangalore",500,"North Indian, Chinese, Rolls, Biryani, Seafood, Shake, Sichuan",3.2,1120.0,250.0
+735,735,The Club Cafe,"Whitefield, Bangalore",650,"Cafe, Fast Food, Pizza, Italian, Sandwich",3.3,19.0,325.0
+736,736,Udupi Gokula Veg,"KR Puram, Bangalore",400,"South Indian, Chinese, North Indian",3.1,7556.0,200.0
+737,737,Sri Sai Palace,"Whitefield, Bangalore",400,"South Indian, Sichuan, Chinese",3.1,20500.0,200.0
+738,738,Sri Lakshmi Bhavan,"Marathahalli, Bangalore",250,"Chinese, South Indian",3.2,642.0,125.0
+739,739,Udupi Grand,"Whitefield, Bangalore",600,"South Indian, North Indian, Chinese, Sandwich, Street Food, Biryani, Desserts, Beverages",2.8,106.0,300.0
+740,740,RC Easy Snacks,"Brookefield, Bangalore",200,"Fast Food, Street Food, Beverages",3.5,9.0,100.0
+741,741,Jugo Crush,"Brookefield, Bangalore",200,"Juices, Shake, Fast Food",3.5,14.0,100.0
+742,742,Sugarkiss Bake Studio,"Whitefield, Bangalore",400,Bakery,3.3,1.0,200.0
+743,743,Day Night Dhaba,"Marathahalli, Bangalore",450,"Fast Food, North Indian, Beverages, Desserts, Healthy Food",3.0,345.0,225.0
+744,744,Kheer Kadamb - Bengali Sweets and Snacks,"Whitefield, Bangalore",300,"Mithai, Street Food",3.0,0.0,150.0
+745,745,Mulbagal Dosa Center,"KR Puram, Bangalore",300,South Indian,3.1,267.0,150.0
+746,746,Hotel Uttam Sagar,"Whitefield, Bangalore",400,"North Indian, Chinese, Seafood, Sichuan",3.3,1668.0,200.0
+747,747,Nandi Mess - Feel Like Mom's,"Whitefield, Bangalore",250,South Indian,3.3,1209.0,125.0
+748,748,Bottle And Kullad,"Brookefield, Bangalore",300,"Beverages, Desserts, Juices",3.3,240.0,150.0
+749,749,Raithula Ruchi,"Sigma Soft Tech Park, Bangalore",300,South Indian,3.4,1.0,150.0
+750,750,Skandas Veg Restaurant,"Brookefield, Bangalore",400,"South Indian, North Indian, Chinese, Beverages",3.4,0.0,200.0
+751,751,Santushti,"Whitefield, Bangalore",200,"North Indian, Street Food, Beverages, Bihari",2.9,3704.0,100.0
+752,752,BaraThas,"Marathahalli, Bangalore",200,"North Indian, Street Food",3.3,161.0,100.0
+753,753,Chai Central,"Forum Neighbourhood Mall, Whitefield, Bangalore",300,"Beverages, Street Food, Fast Food, Tea, Shake",3.3,2378.0,150.0
+754,754,S'Mack,"Whitefield, Bangalore",500,"Fast Food, Wraps, North Indian, Beverages",3.0,4294.0,250.0
+755,755,Ovenfresh Cakes,"Whitefield, Bangalore",600,Bakery,3.2,27.0,300.0
+756,756,Impes Family Restaurant,"KR Puram, Bangalore",400,"North Indian, Chinese, Biryani, South Indian, Street Food, Juices, Shake",3.0,1784.0,200.0
+757,757,Wow Tiffin Food,"Whitefield, Bangalore",200,North Indian,3.2,0.0,100.0
+758,758,Sri Udupi Grand,"KR Puram, Bangalore",350,"South Indian, Chinese, Sichuan",3.2,187.0,175.0
+759,759,Poorva Restaurant,"Marathahalli, Bangalore",500,"Odia, Chinese, North Indian, Seafood",3.1,1098.0,250.0
+760,760,VBP Catering & Vasuda Hotel,"Whitefield, Bangalore",250,"South Indian, North Indian, Chinese",3.1,661.0,125.0
+761,761,Sri Lakshmi Hotel,"Kaggadasapura, Bangalore",250,"Chinese, South Indian",3.1,17.0,125.0
+762,762,Madurai Idly & Dosa Shop,"Marathahalli, Bangalore",150,South Indian,3.0,1077.0,75.0
+763,763,Chatore,"Marathahalli, Bangalore",250,"Street Food, North Indian",2.9,649.0,125.0
+764,764,Grab N Go - Aloft Hotel,"Aloft Hotel, Whitefield, Bangalore",1800,"American, North Indian, Thai, Fast Food",2.8,7.0,900.0
+765,765,Forkfully,"Whitefield, Bangalore",450,"Biryani, Chinese, Seafood, North Indian",3.0,1066.0,225.0
+766,766,Saanvika Foods,"Brookefield, Bangalore",300,"Burger, Sandwich, Fast Food, Ice Cream, Shake, Desserts, Waffle, Beverages",3.1,430.0,150.0
+767,767,Chatora Chaat Corner,"Prashanti Shopping Complex, Whitefield, Bangalore",200,Street Food,3.2,2728.0,100.0
+768,768,Bhartiya Bhojan,"Prashanti Shopping Complex, Whitefield, Bangalore",500,"North Indian, Chinese, Biryani, Sandwich, Fast Food, Desserts, Beverages",2.9,156.0,250.0
+769,769,Chilika Dhaba,"Marathahalli, Bangalore",500,"Bengali, Odia, North Indian, Chinese",2.6,341.0,250.0
+770,770,Indikhana,"Whitefield, Bangalore",400,"South Indian, Fast Food, Street Food, North Indian",2.8,9.0,200.0
+771,771,Ande Ka Funda,"Whitefield, Bangalore",200,"North Indian, Rolls, Chinese",2.6,0.0,100.0
+772,772,Udupi Delux,"Brookefield, Bangalore",500,"North Indian, South Indian, Street Food, Desserts, Beverages, Fast Food, Ice Cream, Sandwich",2.6,0.0,250.0
+773,773,Coastal Spice,"Marathahalli, Bangalore",700,"North Indian, Chinese, Mughlai, Biryani, South Indian, Fast Food, Beverages",2.8,67.0,350.0
+774,774,Decker's Lane,"Marathahalli, Bangalore",400,"Bengali, North Indian, Chinese, Rolls",2.2,1473.0,200.0
+775,775,Wendy's Burgers,"Varthur Main Road, Whitefield, Bangalore",300,"Burger, Fast Food, American",0.0,309.0,150.0
+776,776,Chai Sutta Bar,"Marathahalli, Bangalore",300,"Tea, Fast Food, Street Food",0.0,9.0,150.0
+777,777,Salt - Indian Restaurant Bar & Grill,"Forum Shantiniketan Mall, Whitefield, Bangalore",2500,"North Indian, Seafood, Biryani, Mughlai",4.5,2164.0,1250.0
+778,778,Annamandir,"Whitefield, Bangalore",100,"South Indian, Street Food",0.0,1652.0,50.0
+779,779,Konaseema Vantillu,"Whitefield, Bangalore",250,"South Indian, Biryani",0.0,6.0,125.0
+780,780,Faasos - Wraps & Rolls,"SJR I Park, Bangalore",450,"Rolls, Wraps, Shawarma",0.0,0.0,225.0
+781,781,Hoskote Mutton Dum Biryani,"Brookefield, Bangalore",350,"Biryani, South Indian, North Indian",0.0,0.0,175.0
+782,782,GMR’S TEA TRANCE,"Brookefield, Bangalore",200,"Sandwich, Fast Food",0.0,19.0,100.0
+783,783,Udupi Vaibhav,"Whitefield, Bangalore",350,"South Indian, North Indian, Chinese, Street Food, Sandwich, Juices, Shake, Desserts",0.0,247.0,175.0
+784,784,Bologna,"Whitefield, Bangalore",1300,"Italian, Desserts, Pizza, Pasta",4.5,214.0,650.0
+785,785,Sri Meghna Delux Mess,"Whitefield, Bangalore",350,"Chinese, Biryani, Desserts, Beverages, South Indian, Shake, Sichuan",0.0,8.0,175.0
+786,786,Kerala Home Kitchen,"Whitefield, Bangalore",500,"Kerala, South Indian, North Indian, Seafood, Biryani, Street Food, Chinese, Beverages",0.0,579.0,250.0
+787,787,Teaholic - The Kullad Tea,"Brookefield, Bangalore",150,"Tea, Shake, Beverages, Sandwich, Burger, Fast Food, Street Food",0.0,0.0,75.0
+788,788,PetPuja Food & Snacks,"Brookefield, Bangalore",300,"North Indian, Modern Indian",0.0,143.0,150.0
+789,789,Varalakshmi Tiffins,"Brookefield, Bangalore",150,"South Indian, Street Food, Beverages",0.0,0.0,75.0
+790,790,Goofoo House,"KR Puram, Bangalore",250,South Indian,3.5,1536.0,125.0
+791,791,Om Agarwal Bhavan,"Whitefield, Bangalore",200,"Street Food, Desserts, Beverages",0.0,440.0,100.0
+792,792,Champaran Mutton House,"Whitefield, Bangalore",300,"South Indian, Fast Food",0.0,12.0,150.0
+793,793,South Indian kitchen,"ITPL Main Road, Whitefield, Bangalore",300,"North Indian, Chinese, Biryani, Fast Food",0.0,1.0,150.0
+794,794,Mint Malabari Kerala Food,"Whitefield, Bangalore",200,"Kerala, South Indian, Tea",0.0,0.0,100.0
+795,795,Rolling Fresh,"KR Puram, Bangalore",300,"Rolls, Fast Food, North Indian",0.0,146.0,150.0
+796,796,Halli Mane Natti Style,"Marathahalli, Bangalore",400,"South Indian, Biryani",0.0,2.0,200.0
+797,797,Sri Vasavi Upahara,"KR Puram, Bangalore",150,South Indian,0.0,715.0,75.0
+798,798,Royal Rajasthani Fast Food And Restaurant,"Kadubeesanahalli, Bangalore",300,"North Indian, Chinese",0.0,94.0,150.0
+799,799,Periyar Dine In,"Whitefield, Bangalore",400,"South Indian, Chinese, Kerala, Seafood, North Indian, Biryani, Fast Food, Beverages",0.0,151.0,200.0
+800,800,Pure Bhoj,"Marathahalli, Bangalore",200,"North Indian, Street Food, Desserts",0.0,99.0,100.0
+801,801,S.L.V. Iyengar Bakery,"Marathahalli, Bangalore",300,"Bakery, Street Food",0.0,83.0,150.0
+802,802,Abooz Cafe,"Whitefield, Bangalore",300,"South Indian, Biryani, Sandwich, Fast Food, Street Food, Beverages",0.0,170.0,150.0
+803,803,Olivera,"KR Puram, Bangalore",550,"South Indian, North Indian, Biryani, Mughlai, Chinese, Shake, Desserts, Beverages",0.0,2.0,275.0
+804,804,Sri Udupi Park,"Marathahalli, Bangalore",500,"South Indian, North Indian, Chinese, Beverages, Sandwich, Shake",0.0,0.0,250.0
+805,805,The Twenty Handmade Chocolates,"Varthur Main Road, Whitefield, Bangalore",250,Desserts,0.0,3.0,125.0
+806,806,G6 Food Court,"Marathahalli, Bangalore",400,"South Indian, North Indian, Andhra, Chinese, Desserts, Rolls",0.0,458.0,200.0
+807,807,Ganesh Food Corner,"Brookefield, Bangalore",200,South Indian,0.0,23.0,100.0
+808,808,Sangam Sweets - Since 1964,"Whitefield, Bangalore",200,"Mithai, Street Food, Sandwich, Beverages",3.4,3792.0,100.0
+809,809,Cafe 1947,"Marathahalli, Bangalore",350,"Pizza, Chinese, Fast Food",0.0,0.0,175.0
+810,810,FNP Cakes By Ferns N Petals,"Apple City, Bangalore",350,"Bakery, Desserts",0.0,314.0,175.0
+811,811,Al Halaal Tabrez,"Varthur Main Road, Whitefield, Bangalore",400,"South Indian, North Indian",0.0,0.0,200.0
+812,812,Burger Man,"Marathahalli, Bangalore",200,"Fast Food, Sandwich",0.0,82.0,100.0
+813,813,Guntur Vari Amma Hotel,"KR Puram, Bangalore",350,"South Indian, Street Food",0.0,64.0,175.0
+814,814,Midnight Cravings 24/7,"Marathahalli, Bangalore",450,"Fast Food, Beverages, Shake",0.0,94.0,225.0
+815,815,Cafe Suggi,"Whitefield, Bangalore",400,"Chinese, Fast Food",0.0,314.0,200.0
+816,816,Chai days,"Whitefield, Bangalore",300,"Tea, Fast Food, Street Food, Beverages, Desserts",0.0,338.0,150.0
+817,817,"Jagakalia  Sweets, Snacks And Savouries","Varthur Main Road, Whitefield, Bangalore",300,"Mithai, Street Food, Desserts",0.0,405.0,150.0
+818,818,Nellore Kitchen,"Marathahalli, Bangalore",300,South Indian,0.0,477.0,150.0
+819,819,Mani's Royal Biryani,"Marathahalli, Bangalore",500,Biryani,0.0,187.0,250.0
+820,820,The Chai Walah,"Marathahalli, Bangalore",200,Tea,0.0,28.0,100.0
+821,821,The Spicy Sambar,"Marathahalli, Bangalore",250,"South Indian, North Indian, Chinese, Beverages",0.0,1712.0,125.0
+822,822,Crave Wave,"Marathahalli, Bangalore",300,"South Indian, Fast Food",0.0,0.0,150.0
+823,823,Davanagere Benne Dose Hotel,"Whitefield, Bangalore",250,South Indian,0.0,269.0,125.0
+824,824,Bangali Hotel,"Marathahalli, Bangalore",200,Bengali,0.0,0.0,100.0
+825,825,McCafe by McDonald's,"Brookefield, Bangalore",600,"Cafe, Coffee, Fast Food, Desserts, Shake, Beverages",0.0,93.0,300.0
+826,826,Utkal Spice Heaven,"ITPL Main Road, Whitefield, Bangalore",200,North Indian,0.0,78.0,100.0
+827,827,KaAra - Taste Of South,"Brookefield, Bangalore",200,"South Indian, Biryani",0.0,15.0,100.0
+828,828,The Burgers King,"Varthur Main Road, Whitefield, Bangalore",350,"Burger, Fast Food",0.0,50.0,175.0
+829,829,Nala Bhima Restaurant,"Marathahalli, Bangalore",600,"North Indian, South Indian, Continental, Chinese, Desserts, Beverages",0.0,47.0,300.0
+830,830,SRI SHANKAR ANDHRA MESS,"Whitefield, Bangalore",100,Biryani,0.0,2.0,50.0
+831,831,Bengaluru Military Hotel,"KR Puram, Bangalore",450,"North Indian, Biryani, Seafood",0.0,0.0,225.0
+832,832,New Guru Nalapaka,"KR Puram, Bangalore",300,"South Indian, North Indian, Chinese",0.0,550.0,150.0
+833,833,Rajdhani Dhaba,"Whitefield, Bangalore",350,"North Indian, Chinese, Street Food, Fast Food, Desserts",0.0,1.0,175.0
+834,834,Kakara - The Taste Of Odisha,"Marathahalli, Bangalore",400,"Mithai, North Indian, Street Food",0.0,41.0,200.0
+835,835,Jaya's Home Kitchen,"Brookefield, Bangalore",300,North Indian,0.0,39.0,150.0
+836,836,Nandi Upachar,"Varthur Main Road, Whitefield, Bangalore",700,"South Indian, Chinese, North Indian, Street Food, Biryani, Desserts, Shake, Beverages",0.0,0.0,350.0
+837,837,Wae's,"ITPL Main Road, Whitefield, Bangalore",250,"Sandwich, Fast Food, Street Food, Beverages",0.0,25.0,125.0
+838,838,Vatika Veg,"Whitefield, Bangalore",200,"North Indian, Chinese, Street Food, Beverages",0.0,108.0,100.0
+839,839,Cakewala,"Brookefield, Bangalore",400,Bakery,3.7,1231.0,200.0
+840,840,Ramesh Foods,"Marathahalli, Bangalore",300,"Pizza, Sandwich, Burger, Pasta, Momos, Ice Cream, Shake, Beverages",0.0,51.0,150.0
+841,841,B Kitchenn,"Marathahalli, Bangalore",450,"North Indian, Biryani, Mughlai, Chinese",0.0,0.0,225.0
+842,842,V R Mutton Dum Biryani,"KR Puram, Bangalore",400,"Kebab, Biryani",0.0,0.0,200.0
+843,843,SLN Military Hotel,"KR Puram, Bangalore",650,"South Indian, Biryani",0.0,114.0,325.0
+844,844,Jitubhai Mutton Point,"Marathahalli, Bangalore",400,"North Indian, Chinese, Rolls, Fast Food",0.0,7.0,200.0
+845,845,Chat Time,"Varthur Main Road, Whitefield, Bangalore",300,Street Food,0.0,14.0,150.0
+846,846,The Byke Signature  Bengaluru,"Whitefield, Bangalore",500,"North Indian, Fast Food, Chinese",0.0,1.0,250.0
+847,847,Mahadev Pure Veg Restaurant,"ITPL Main Road, Whitefield, Bangalore",350,North Indian,0.0,0.0,175.0
+848,848,Sassy South,"KR Puram, Bangalore",450,"South Indian, Tea, Chinese, Andhra, Tamil",0.0,181.0,225.0
+849,849,JSPIICE  Hunger Decoded,"Marathahalli, Bangalore",250,"Shawarma, Sandwich, Burger, Chinese, Fast Food, Street Food, Juices, Shake",0.0,106.0,125.0
+850,850,Udupi Anubhav,"KR Puram, Bangalore",500,"South Indian, North Indian, Chinese, Biryani, Desserts, Beverages, Shake, Juices",0.0,1241.0,250.0
+851,851,The Sober Cafe,"Marathahalli, Bangalore",300,"Beverages, Tea, Street Food",0.0,7.0,150.0
+852,852,Slay Coffee Bar,"Marathahalli, Bangalore",600,"Cafe, Coffee, Beverages, Fast Food",0.0,0.0,300.0
+853,853,Sri Basaveswara Khanavali,"Whitefield, Bangalore",300,South Indian,0.0,0.0,150.0
+854,854,Kale Me Crazy KL 14,"Brookefield, Bangalore",300,"Kerala, South Indian, North Indian, Chinese",0.0,3.0,150.0
+855,855,Tea Time,"Brookefield, Bangalore",300,"Tea, Sandwich, Fast Food, Street Food, Beverages, Shake",0.0,221.0,150.0
+856,856,Go Zero - Ice Creams & Desserts,"ITPL Main Road, Whitefield, Bangalore",550,"Ice Cream, Desserts",0.0,168.0,275.0
+857,857,Tea Time,"Whitefield, Bangalore",150,"Tea, Shake, Beverages",0.0,44.0,75.0
+858,858,Haldiram's Sweets And Namkeen,"KR Puram, Bangalore",400,"Mithai, Bakery, Desserts, North Indian, Street Food",0.0,0.0,200.0
+859,859,Chai Fusion Cafe,"Brookefield, Bangalore",100,"Tea, Coffee",0.0,5.0,50.0
+860,860,Waffle Express,"Whitefield, Bangalore",250,"Sandwich, Waffle, Desserts",0.0,107.0,125.0
+861,861,BALAJI CENTRAL CAFE,"Whitefield, Bangalore",250,"South Indian, Biryani, Chinese",0.0,7.0,125.0
+862,862,Des Tea Nation,"Whitefield, Bangalore",200,"Ice Cream, Shake, Desserts",0.0,10.0,100.0
+863,863,The Naashta Story,"Marathahalli, Bangalore",300,"South Indian, Chinese",0.0,88.0,150.0
+864,864,Sri Ranghanatha Swamy,"Whitefield, Bangalore",200,"Chinese, South Indian, Andhra, Biryani, Street Food",0.0,0.0,100.0
+865,865,Young Star Restaurant,"Marathahalli, Bangalore",400,"North Indian, Bengali, Chinese, Biryani",0.0,45.0,200.0
+866,866,Brothers Restaurant,"Varthur Main Road, Whitefield, Bangalore",200,South Indian,0.0,0.0,100.0
+867,867,Noname Cafe,"Whitefield, Bangalore",350,"North Indian, Beverages",0.0,2.0,175.0
+868,868,Rajashtan Chats And Sweets,"Marathahalli, Bangalore",150,"Mithai, Street Food, North Indian, Maharashtrian",0.0,55.0,75.0
+869,869,Lassi Paradise,"Marathahalli, Bangalore",200,"Beverages, Juices, Fast Food, Ice Cream, Desserts",0.0,0.0,100.0
+870,870,Ak Tiffen And Lunch,"Marathahalli, Bangalore",150,South Indian,0.0,2.0,75.0
+871,871,Sri Vigneshwara Andhra Hotel,"Brookefield, Bangalore",250,"South Indian, Chinese",0.0,5.0,125.0
+872,872,Mistea Cafe,"Marathahalli, Bangalore",100,"Street Food, Beverages",0.0,0.0,50.0
+873,873,Kovai Mess,"Whitefield, Bangalore",100,South Indian,0.0,0.0,50.0
+874,874,Royal Benne Dose,"Whitefield, Bangalore",200,South Indian,0.0,55.0,100.0
+875,875,Makhanchor,"Marathahalli, Bangalore",200,"North Indian, Street Food",0.0,0.0,100.0
+876,876,Morbi Sweet & Farsan,"Kaggadasapura, Bangalore",200,Mithai,0.0,0.0,100.0
+877,877,Akanksha Kitchen,"Brookefield, Bangalore",300,"North Indian, Fast Food, Chinese",0.0,6.0,150.0
+878,878,Chandu's Kitchen,"Brookefield, Bangalore",300,South Indian,0.0,0.0,150.0
+879,879,Sri Sai Juice And Tea Coffee Point,"Marathahalli, Bangalore",100,"Tea, Juices, Beverages",0.0,0.0,50.0
+880,880,Slv Sree Lakshmi Venkateshwara Sweets And Khara,"KR Puram, Bangalore",200,"Mithai, Street Food",0.0,0.0,100.0
+881,881,Traiaika Foods,"Marathahalli, Bangalore",250,"Fast Food, North Indian, Street Food",0.0,0.0,125.0
+882,882,Hotel Sai Akshiya Bhavan,"KR Puram, Bangalore",200,South Indian,0.0,1.0,100.0
+883,883,Dahiya Ji Sweets And Restaurant,"Whitefield, Bangalore",400,"Mithai, North Indian, Chinese, Biryani, Momos, Street Food",0.0,42.0,200.0
+884,884,Vasavi Holige Mane Thindi,"KR Puram, Bangalore",200,"South Indian, Street Food",0.0,0.0,100.0
+885,885,Tea Day,"Marathahalli, Bangalore",400,"Tea, Sandwich, Fast Food, Street Food, Shake, Beverages",0.0,0.0,200.0
+886,886,Sai's Andhra Inn,"KR Puram, Bangalore",150,Andhra,0.0,44.0,75.0
+887,887,Guntur Tasty Foods,"Marathahalli, Bangalore",400,"South Indian, Kebab, Chinese, Biryani, Arabian, Lebanese, North Indian, Beverages",0.0,0.0,200.0
+888,888,Sri Lakshmi Hotel,"Marathahalli, Bangalore",200,South Indian,0.0,0.0,100.0
+889,889,Kafe Box,"Marathahalli, Bangalore",250,"Fast Food, Juices",0.0,0.0,125.0
+890,890,Grand Amaravathi,"Marathahalli, Bangalore",350,"Andhra, South Indian, Biryani, Kebab, Chinese",0.0,0.0,175.0
+891,891,Slv Food Corner,"Marathahalli, Bangalore",200,South Indian,0.0,0.0,100.0
+892,892,Acharjee Sweets And Snacks,"Marathahalli, Bangalore",200,"Mithai, North Indian, Street Food",0.0,0.0,100.0
+893,893,Chai 365,"Marathahalli, Bangalore",150,"Tea, Coffee, Shake, Beverages, Street Food",0.0,3.0,75.0
+894,894,Juzy Cafe,"Marathahalli, Bangalore",250,"Beverages, Juices, Ice Cream, Fast Food",0.0,0.0,125.0
+895,895,Sri Durga Parameshwari Upahara,"Whitefield, Bangalore",100,South Indian,0.0,0.0,50.0
+896,896,Svadu Pure Ghee Sweets,"Whitefield, Bangalore",300,"Mithai, Street Food",0.0,0.0,150.0
+897,897,Empty Cup,"KR Puram, Bangalore",300,South Indian,0.0,0.0,150.0
+898,898,Brundavn Hotel,"KR Puram, Bangalore",300,"North Indian, Biryani, Chinese",0.0,0.0,150.0
+899,899,Mahalakshmi Sweet & Chats,"Brookefield, Bangalore",200,"Mithai, Street Food, Beverages",0.0,0.0,100.0
+900,900,Kokila Restaurant,"Marathahalli, Bangalore",300,"North Indian, Chinese",0.0,5.0,150.0
+901,901,Akhila Bakery And Tea World,"ITPL Main Road, Whitefield, Bangalore",200,"North Indian, Chinese, Shake, Beverages",0.0,0.0,100.0
+902,902,Golden Bake And Juice,"Brookefield, Bangalore",200,"Beverages, Fast Food, Street Food, Juices, Rolls, Sandwich",0.0,0.0,100.0
+903,903,Deli2Go,"Brookefield, Bangalore",600,"Cafe, Fast Food, Hot dogs, Street Food, Beverages",0.0,1.0,300.0
+904,904,Sri Sai Ruchi's,"Brookefield, Bangalore",400,"South Indian, North Indian, Chinese, Biryani",0.0,0.0,200.0
+905,905,S S Rao's Upahaar,"Marathahalli, Bangalore",200,South Indian,0.0,5.0,100.0
+906,906,VR Bangarpetr Chat,"KR Puram, Bangalore",150,"Street Food, Fast Food",0.0,0.0,75.0
+907,907,Shri Raghavendra Tiffin Center,"Marathahalli, Bangalore",150,South Indian,0.0,0.0,75.0
+908,908,Pratiksha Restaurant,"Marathahalli, Bangalore",350,"South Indian, North Indian, Chinese",0.0,0.0,175.0
+909,909,KGN Cafe,"Varthur Main Road, Whitefield, Bangalore",250,"Beverages, Shake, Juices, Fast Food",0.0,0.0,125.0
+910,910,BK Cafe By Burger King,"Kote MR Plaza, Bangalore",600,"Cafe, Fast Food, Beverages",0.0,0.0,300.0
+911,911,Om Sri Durgamma Hotel,"KR Puram, Bangalore",200,South Indian,0.0,0.0,100.0
+912,912,Udupi Cafe,"ITPL Main Road, Whitefield, Bangalore",200,South Indian,0.0,0.0,100.0
+913,913,The Good Food Chefs,"Marathahalli, Bangalore",200,"Beverages, North Indian, Chinese, Street Food",0.0,0.0,100.0
+914,914,One Stop Biryani,"Whitefield, Bangalore",350,"Biryani, South Indian, Chinese",0.0,2.0,175.0
+915,915,Green Leaf Hotel,"Marathahalli, Bangalore",300,Kerala,0.0,0.0,150.0
+916,916,Hotel Sri Sannedi,"Marathahalli, Bangalore",300,"Biryani, Chinese",0.0,0.0,150.0
+917,917,New Ragam Bakery,"Brookefield, Bangalore",100,"Fast Food, Street Food, Lebanese",0.0,0.0,50.0
+918,918,Ramdev Sagar Pure Veg,"KR Puram, Bangalore",350,"South Indian, Chinese",0.0,0.0,175.0
+919,919,Swagruha Sweets And Bakes,"Brookefield, Bangalore",200,"Bakery, Mithai, Fast Food, Pizza, Street Food, Beverages",0.0,1.0,100.0
+920,920,Sri Mukambika Darshini,"Commercial Street, Bangalore",200,South Indian,0.0,0.0,100.0
+921,921,Dosa.com,"Whitefield, Bangalore",200,South Indian,0.0,10.0,100.0
+922,922,Priya's Kitchen,"ITPL Main Road, Whitefield, Bangalore",100,South Indian,0.0,13.0,50.0
+923,923,Sri Sai Canteen,"Whitefield, Bangalore",300,South Indian,0.0,0.0,150.0
+924,924,Drip The Cafe Bar,"KR Puram, Bangalore",300,"Fast Food, Street Food, Sandwich, Beverages, Desserts",0.0,132.0,150.0
+925,925,Bhabatarini Bangali Hotel,"ITPL Main Road, Whitefield, Bangalore",100,Bengali,0.0,0.0,50.0
+926,926,Andhra Homely Foods,"KR Puram, Bangalore",300,"North Indian, Chinese, South Indian, Beverages, Sichuan",0.0,0.0,150.0
+927,927,O.M.D.S Hotel,"ITPL Main Road, Whitefield, Bangalore",300,South Indian,0.0,0.0,150.0
+928,928,Fresh And Hot Momos,"Whitefield, Bangalore",250,"North Indian, Street Food, Momos",0.0,0.0,125.0
+929,929,Horanadu Annapurneshwari Restaurant,"KR Puram, Bangalore",300,"South Indian, Street Food",0.0,0.0,150.0
+930,930,Shree Swaad Cafe,"KR Puram, Bangalore",200,"Sandwich, Burger, Rolls, Fast Food, Street Food, Ice Cream, Desserts, Beverages",0.0,11.0,100.0
+931,931,KVR Spice Garden,"Marathahalli, Bangalore",300,"North Indian, South Indian, Chinese, Beverages",0.0,0.0,150.0
+932,932,Sri Ranganatha Swamy,"Varthur Main Road, Whitefield, Bangalore",200,South Indian,0.0,0.0,100.0
+933,933,Nellore Tiffin & Meals,"Marathahalli, Bangalore",500,South Indian,0.0,1.0,250.0
+934,934,C.K.S Malgudi Kitchen,"Varthur Main Road, Whitefield, Bangalore",100,South Indian,0.0,0.0,50.0
+935,935,New Athithi Sagar,"KR Puram, Bangalore",200,"South Indian, Street Food, Beverages",0.0,217.0,100.0
+936,936,Juicy Garish,"Marathahalli, Bangalore",200,"South Indian, Chinese, Fast Food, Sandwich, Rolls, Street Food, Shake, Beverages",0.0,17.0,100.0
+937,937,Cuisine Meal Restaurant,"Brookefield, Bangalore",350,South Indian,0.0,11.0,175.0
+938,938,Wood Fire Pizza,"Whitefield, Bangalore",500,"Burger, Pizza, Fast Food",0.0,0.0,250.0
+939,939,Mayura Bakery and Sweets,"Whitefield, Bangalore",400,"Bakery, Mithai",0.0,0.0,200.0
+940,940,Hotel Prithvi,"ITPL Main Road, Whitefield, Bangalore",200,"Chinese, Kerala, Seafood",0.0,11.0,100.0
+941,941,Golden Fork,"ITPL Main Road, Whitefield, Bangalore",200,"South Indian, Chinese, North Indian",0.0,0.0,100.0
+942,942,Spice X,"Miraya Rose, Bangalore",300,"Sandwich, Fast Food",0.0,0.0,150.0
+943,943,Herbaceous,"Varthur Main Road, Whitefield, Bangalore",350,"North Indian, Sandwich, Chinese, Beverages",0.0,0.0,175.0
+944,944,Ruchi Mayur Hotel,"Varthur Main Road, Whitefield, Bangalore",200,South Indian,0.0,0.0,100.0
+945,945,99 Udupi Veg,"Marathahalli, Bangalore",300,"South Indian, North Indian",0.0,0.0,150.0
+946,946,Aroma's Hyderabad House,"Marathahalli, Bangalore",950,"Hyderabadi, Biryani, North Indian, Mughlai, Chinese, Seafood, Kebab, Beverages",4.2,2891.0,475.0
+947,947,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli, Bangalore",2500,"North Indian, Continental, Italian, Asian, Desserts, Beverages",4.0,53.0,1250.0
+948,948,The Coffee Brewery,"Bellandur, Bangalore",800,"Cafe, Sandwich, Fast Food, Bakery, Desserts, Beverages",3.4,300.0,400.0
+949,949,Delice - Novotel,"Novotel Bengaluru, Marathahalli, Bangalore",1300,"Desserts, Fast Food, Italian, Continental, North Indian",4.2,45.0,650.0
+950,950,Bla Bla Chai,"Kaggadasapura, Bangalore",300,"Tea, Fast Food, Beverages",3.1,0.0,150.0
+951,951,Chez Nous,"Sarjapur Road, Bangalore",2000,North Indian,0.0,0.0,1000.0
+952,952,Third Wave Coffee,"Bellandur, Bangalore",700,"Cafe, Coffee, Sandwich, Pizza, Fast Food, Tea, Beverages",4.1,454.0,350.0
+953,953,Demitasse Coffee,"Brookefield, Bangalore",300,"Cafe, Coffee, Beverages",3.9,25.0,150.0
+954,954,Delhi Wala Tadka,"Marathahalli, Bangalore",500,"North Indian, Chinese, Street Food, Biryani, Beverages",3.7,128.0,250.0
+955,955,Zed The Baker,"Prestige Tech Park, Bangalore",800,"Bakery, Burger, Pizza, Desserts",3.5,60.0,400.0
+956,956,Bekal Restaurant,"Jeevan Bhima Nagar, Bangalore",850,"Kerala, Mangalorean, Seafood, Chinese, Beverages",3.9,2732.0,425.0
+957,957,Munchin Cafe,"Varthur Main Road, Whitefield, Bangalore",350,"Momos, Sandwich, Pizza, Salad, Fast Food, Beverages",4.2,285.0,175.0
+958,958,TBC- Sky Lounge,"Kadubeesanahalli, Bangalore",1500,"Continental, Italian, Asian, North Indian, South Indian, Biryani, Desserts, Beverages",4.5,505.0,750.0
+959,959,Blue Tokai Coffee Roasters,"Bellandur, Bangalore",600,"Cafe, Coffee, Healthy Food, Beverages, Desserts, American, Sandwich",3.8,210.0,300.0
+960,960,Flavors Of India,"Bellandur, Bangalore",1800,"Oriental, Chinese, Continental, South Indian, North Indian, Desserts, Beverages",4.0,201.0,900.0
+961,961,Starbucks Coffee,"Bellandur, Bangalore",600,"Cafe, Coffee, Desserts, Beverages",3.2,1300.0,300.0
+962,962,Spice Darbar,"Iris Inn, Bangalore",1200,"North Indian, Continental, Desserts, Beverages",3.8,4.0,600.0
+963,963,Mirch Masala,"Kaggadasapura, Bangalore",500,"North Indian, Chinese, Mughlai, Seafood, Biryani, Fast Food, Desserts",3.8,762.0,250.0
+964,964,Wah Parantha,"Bellandur, Bangalore",450,"North Indian, Street Food",4.0,1394.0,225.0
+965,965,Dindigul Thalappakatti,"Marathahalli, Bangalore",1100,"Biryani, South Indian, North Indian, Mughlai, Chinese, Seafood, Desserts, Beverages",3.8,6799.0,550.0
+966,966,Taste Indies,"Sarjapur Road, Bangalore",200,"Street Food, North Indian, Desserts",4.4,987.0,100.0
+967,967,Chai Point,"Marathahalli, Bangalore",400,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",4.1,4647.0,200.0
+968,968,Ritomi's Lov,"Bellandur, Bangalore",500,"North Indian, Street Food, Chinese, Beverages, Sandwich",4.2,2389.0,250.0
+969,969,Subway,"Bagmane World Technology Center, Bangalore",600,"Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",2.9,1524.0,300.0
+970,970,Hotel Salala,"Old Airport Road, Bangalore",500,"North Indian, South Indian, Chinese, Mughlai",3.8,1445.0,250.0
+971,971,Odia Snack Bar,"Bellandur, Bangalore",150,Odia,3.6,609.0,75.0
+972,972,Chai Resto,"Bellandur, Bangalore",300,"Beverages, Fast Food, North Indian, Street Food, Tea",3.7,0.0,150.0
+973,973,Ande Ka Funda,"Marathahalli, Bangalore",200,"North Indian, Rolls, Chinese",3.2,16100.000000000002,100.0
+974,974,Iyer Idly,"Thippasandra, Bangalore",150,South Indian,4.4,1798.0,75.0
+975,975,Chianti,"RMZ Ecoworld, Bellandur, Bangalore",1800,"Italian, Pizza, Pasta, Desserts",4.5,128.0,900.0
+976,976,1By2 Cafe,"Bellandur, Bangalore",400,"Burger, Pizza, Desserts, Shake, Beverages",0.0,49.0,200.0
+977,977,Motis Kitchen,"Thippasandra, Bangalore",350,"South Indian, Kerala, Chinese, Seafood, Chettinad",4.1,29800.0,175.0
+978,978,Vaishnavi Vaibhava,"CV Raman Nagar, Bangalore",300,"South Indian, North Indian, Chinese, Street Food, Biryani, Juices, Beverages, Ice Cream",0.0,0.0,150.0
+979,979,Champaran Meat House,"Kadubeesanahalli, Bangalore",600,"North Indian, Bihari",3.5,393.0,300.0
+980,980,Lets Talk Over Table,"Jeevan Bhima Nagar, Bangalore",950,"Cafe, Continental, Fast Food, Seafood, Desserts, Beverages",3.5,617.0,475.0
+981,981,Shree Murugan Idly Shop,"Kaggadasapura, Bangalore",200,South Indian,0.0,0.0,100.0
+982,982,Some Whispers,"Kadubeesanahalli, Bangalore",200,"Juices, Shake, Beverages, Desserts, Fast Food, Street Food",0.0,79.0,100.0
+983,983,The Odisha Cafe,"Kaggadasapura, Bangalore",100,"North Indian, Desserts",0.0,48.0,50.0
+984,984,Truly North Indian,"Bellandur, Bangalore",250,North Indian,4.4,635.0,125.0
+985,985,Kairali Restaurant,"Bellandur, Bangalore",400,"Kerala, South Indian, Seafood, Biryani, Chinese, Beverages",4.0,9435.0,200.0
+986,986,Wooden Fork,"Kadubeesanahalli, Bangalore",300,South Indian,0.0,4.0,150.0
+987,987,Ghar Ki Rasoi,"Bellandur, Bangalore",300,North Indian,0.0,0.0,150.0
+988,988,Cremee Fresh Cakes n' Snacks,"Kaggadasapura, Bangalore",350,Bakery,4.1,245.0,175.0
+989,989,The Salad Studio,"Bellandur, Bangalore",550,"Salad, Healthy Food, Sandwich, Juices",3.9,4766.0,275.0
+990,990,Sri Guru Raghavendra Dosa Camp,"Old Airport Road, Bangalore",300,South Indian,0.0,5.0,150.0
+991,991,Udupi Nalapaka,"Bellandur, Bangalore",400,"South Indian, North Indian, Chinese, Shake, Beverages",3.8,11700.0,200.0
+992,992,Udupi Aatithya,"Bellandur, Bangalore",300,"South Indian, North Indian, Chinese, Fast Food, Shake, Sichuan",3.9,14400.0,150.0
+993,993,Belz,"Bellandur, Bangalore",300,South Indian,0.0,0.0,150.0
+994,994,Udupi Kitchen,"Bellandur, Bangalore",400,"South Indian, North Indian, Chinese, Desserts, Beverages",3.2,1314.0,200.0
+995,995,Chaayos Chai+Snacks=Relax,"RMZ Ecoworld, Bellandur, Bangalore",350,"Tea, Beverages, Sandwich, Street Food",4.2,909.0,175.0
+996,996,Atithi Aramane Veg,"Bellandur, Bangalore",450,"South Indian, North Indian, Chinese",4.2,4583.0,225.0
+997,997,Vishal Sweets & Restaurant,"Marathahalli, Bangalore",350,"North Indian, Chinese, Mithai",3.5,9137.0,175.0
+998,998,Udupi Vaibhav Veg,"Marathahalli, Bangalore",400,"South Indian, North Indian, Chinese, Street Food, Desserts, Beverages",3.9,1258.0,200.0
+999,999,Kerala Panoor Restaurant,"Bellandur, Bangalore",300,"Kerala, Seafood, Biryani, South Indian, Chinese, North Indian, Sichuan",3.7,23700.0,150.0
